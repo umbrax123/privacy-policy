@@ -1,1 +1,33 @@
-
+{
+  "populer": [
+    {
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71g2ednj0JL.jpg"
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91bYsX41DVL.jpg"
+    },
+    {
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/417P75vFA8L._SX326_BO1,204,203,200_.jpg"
+    }
+  ],
+  "onerilen": [
+    {
+      "title": "Rework",
+      "author": "Jason Fried",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61mbfZFs6FL.jpg",
+      "description": "Rework shows you a better, faster, easier way to succeed in business. Read it and you'll know why plans are actually harmful."
+    },
+    {
+      "title": "Zero to One",
+      "author": "Peter Thiel",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71mUcnOf7AL.jpg",
+      "description": "The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won't make a search engine."
+    }
+  ]
+}
