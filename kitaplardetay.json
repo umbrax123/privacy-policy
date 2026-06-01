@@ -1,0 +1,606 @@
+{
+  "populer": [
+    {
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "image": "https://covers.openlibrary.org/b/isbn/9780857197689-L.jpg",
+      "description": "Parayla olan ilişkinizin matematiksel formüllerden ziyade tamamen insan psikolojisi, ego ve gururla nasıl şekillendiğini çarpıcı örneklerle anlatan bir finans klasiği."
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "image": "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg",
+      "description": "Her gün %1 daha iyi olmanın uzun vadedeki devasa gücünü keşfedin. Küçük ve atomik alışkanlıkların hayatınızı nasıl kökten değiştirebileceğini pratik adımlarla gösteren rehber."
+    },
+    {
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "image": "https://covers.openlibrary.org/b/isbn/9781455586691-L.jpg",
+      "description": "Bildirimler ve dikkat dağıtıcı unsurlarla dolu modern dünyada, odaklanarak derinlemesine çalışmanın ve bilişsel yetenekleri maksimuma çıkarmanın yollarını sunan bir başyapıt."
+    },
+    {
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "image": "https://covers.openlibrary.org/b/isbn/9780374275631-L.jpg",
+      "description": "Nobel ödüllü psikoloğun zihnimizin çalışma mekanizmasını iki ana sisteme ayırarak incelediği; sezgisel hızlı düşünme ile mantıksal yavaş düşünmenin karar anlarımızı nasıl etkilediğini açıklayan eser."
+    },
+    {
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "image": "https://covers.openlibrary.org/b/isbn/9780307887894-L.jpg",
+      "description": "Girişimcilerin sürekli inovasyonla sürdürülebilir iş modelleri kurmasını, MVP (Minimum Uygulanabilir Ürün) mantığını ve kaynakları israf etmeden hızlıca test etme yöntemlerini öğreten kılavuz."
+    },
+    {
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "image": "https://covers.openlibrary.org/b/isbn/9780062457714-L.jpg",
+      "description": "Sürekli pozitif olma baskısına meydan okuyan, kusurlarımızı kabul etmenin ve hayatta sadece gerçekten önemli olan değerlere odaklanmanın önemini mizahi bir dille anlatan ters köşe bir kitap."
+    },
+    {
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "image": "https://covers.openlibrary.org/b/isbn/9781612680194-L.jpg",
+      "description": "Finansal okuryazarlığın temel taşlarından biri. Zenginlerin çocuklarına para hakkında ne öğrettiğini, pasif geliri ve varlık ile yükümlülük arasındaki kritik farkları ele alan zamansız rehber."
+    },
+    {
+      "title": "Can't Hurt Me",
+      "author": "David Goggins",
+      "image": "https://covers.openlibrary.org/b/isbn/9781544512280-L.jpg",
+      "description": "Dünyanın en zorlu askeri eğitimlerini tamamlayan tek insan olan David Goggins'in, %40 kuralıyla zihinsel sınırları nasıl paramparça edeceğinizi anlatan ilham verici otobiyografisi."
+    },
+    {
+      "title": "Start with Why",
+      "author": "Simon Sinek",
+      "image": "https://covers.openlibrary.org/b/isbn/9781591846444-L.jpg",
+      "description": "Büyük liderlerin ve etkili markaların insanları nasıl harekete geçirdiğini 'Altın Çember' teorisiyle açıklayan, her projenin ve işin önce 'Neden' sorusuyla başlaması gerektiğini savunan bir eser."
+    },
+    {
+      "title": "Good to Great",
+      "author": "Jim Collins",
+      "image": "https://covers.openlibrary.org/b/isbn/9780066620992-L.jpg",
+      "description": "Bazı şirketlerin iyi durumdayken nasıl harika şirketlere dönüştüğünü ve kalıcı başarılar yakaladığını, kapsamlı yönetim araştırmalarına ve verilere dayanarak ortaya koyan kült iş kitabı."
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "image": "https://covers.openlibrary.org/b/isbn/9780061122415-L.jpg",
+      "description": "İspanya'dan Mısır piramitlerine hazinesini aramaya giden çoban Santiago'nun, kendi kişisel menkıbesini keşfetme ve yüreğinin sesini dinleme yolculuğunu anlatan masalsı felsefi roman."
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "image": "https://covers.openlibrary.org/b/isbn/9780062316097-L.jpg",
+      "description": "İnsan türünün önemsiz bir hayvandan dünyanın efendisine dönüşme sürecini; bilişsel, tarım ve bilimsel devrimler ışığında kışkırtıcı ve akıcı bir dille ele alan tarih başyapıtı."
+    },
+    {
+      "title": "Homo Deus: A Brief History of Tomorrow",
+      "author": "Yuval Noah Harari",
+      "image": "https://covers.openlibrary.org/b/isbn/9780062464316-L.jpg",
+      "description": "İnsanlığın kıtlık, salgın ve savaşları yendikten sonraki yeni hedeflerini; yapay zeka, ölümsüzlük ve tanrısallaşma yolculuğunda gelecekte bizi nelerin beklediğini inceleyen ufuk açıcı bir vizyon."
+    },
+    {
+      "title": "Digital Minimalism",
+      "author": "Cal Newport",
+      "image": "https://covers.openlibrary.org/b/isbn/9780525536512-L.jpg",
+      "description": "Teknolojiyle olan bağımızı tamamen koparmadan, ekran bağımlılığından sıyrılıp dikkatimizi sadece değer üreten dijital araçlara odaklamayı öğreten pratik bir yaşam felsefesi."
+    },
+    {
+      "title": "The Power of Habit",
+      "author": "Charles Duhigg",
+      "image": "https://covers.openlibrary.org/b/isbn/9781400069286-L.jpg",
+      "description": "Alışkanlıkların iş dünyasında ve özel hayatımızda neden var olduğunu, 'İşaret-Rutin-Ödül' döngüsünün nasıl çalıştığını bilimsel deneyler ve gerçek başarı hikayeleriyle açıklayan kılavuz."
+    },
+    {
+      "title": "Originals",
+      "author": "Adam Grant",
+      "image": "https://covers.openlibrary.org/b/isbn/9780525426998-L.jpg",
+      "description": "Statükoya meydan okuyan, sürüden ayrılan ve dünyayı değiştiren yaratıcı insanların, riskleri nasıl yönettiklerini ve fikirlerini nasıl kabul ettirdiklerini inceleyen sosyolojik bir analiz."
+    },
+    {
+      "title": "Grit: The Power of Passion and Perseverance",
+      "author": "Angela Duckworth",
+      "image": "https://covers.openlibrary.org/b/isbn/9781501111105-L.jpg",
+      "description": "Başarının sırrının deha ya da yetenek değil, 'azim' (tutku ve kararlılık) olduğunu; zorluklar karşısında yılmamanın uzun vadede nasıl zafer getirdiğini kanıtlayan bir psikoloji klasiği."
+    },
+    {
+      "title": "Outliers: The Story of Success",
+      "author": "Malcolm Gladwell",
+      "image": "https://covers.openlibrary.org/b/isbn/9780316017923-L.jpg",
+      "description": "Başarılı insanların sadece kendi zekaları sayesinde değil, doğdukları kültür, aile bağları ve 10.000 saat kuralı gibi görünmez fırsat pencereleri sayesinde nasıl sıyrıldıklarını gösteren sarsıcı analiz."
+    },
+    {
+      "title": "Principles",
+      "author": "Ray Dalio",
+      "image": "https://covers.openlibrary.org/b/isbn/9781501124020-L.jpg",
+      "description": "Dünyanın en büyük koruma fonunun kurucusundan, hem iş yönetimi hem de kişisel hayatta kararlar alırken kullanılabilecek, radikal şeffaflığa dayalı sistematik prensipler bütünlüğü."
+    },
+    {
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "image": "https://covers.openlibrary.org/b/isbn/9781451639612-L.jpg",
+      "description": "Kişisel ve profesyonel problemleri çözmek için bütünsel, entegre ve ilkelere dayalı bir yaklaşım sunan, karakter etiğini merkeze alan dünyanın bir numaralı kişisel gelişim kitabı."
+    },
+    {
+      "title": "Blink: The Power of Thinking Without Thinking",
+      "author": "Malcolm Gladwell",
+      "image": "https://covers.openlibrary.org/b/isbn/9780316172325-L.jpg",
+      "description": "Anlık kararlarımızın, ilk izlenimlerimizin ve bilinçaltımızın arka planda nasıl çalıştığını; bazen göz açıp kapayıncaya kadar verilen kararların neden çok daha doğru olabildiğini inceleyen analiz."
+    },
+    {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "image": "https://covers.openlibrary.org/b/isbn/9780441172719-L.jpg",
+      "description": "Arrakis adlı çöl gezegeninde geçen; din, siyaset, ekoloji ve insan iradesini harmanlayan, bilimkurgu tarihinin en büyük ve en etkileyici destanlarından biri."
+    },
+    {
+      "title": "Neuromancer",
+      "author": "William Gibson",
+      "image": "https://covers.openlibrary.org/b/isbn/9780441569595-L.jpg",
+      "description": "Cyberpunk akımının öncüsü ve 'sanal alan' (cyberspace) kavramını dünyaya tanıtan; yapay zekalar, hackerlar ve distopik bir gelecekle bezeli kült bilimkurgu romanı."
+    },
+    {
+      "title": "Foundation",
+      "author": "Isaac Asimov",
+      "image": "https://covers.openlibrary.org/b/isbn/9780553293357-L.jpg",
+      "description": "Galaktik bir imparatorluğun çöküşünü 'psikotarih' bilimiyle öngören ve insanlığın bilgi birikimini korumak için bir Vakıf kuran Hari Seldon'ın epik hikayesi."
+    },
+    {
+      "title": "Hyperion",
+      "author": "Dan Simmons",
+      "image": "https://covers.openlibrary.org/b/isbn/9780553283686-L.jpg",
+      "description": "Evrenin yok oluşun eşiğinde olduğu bir dönemde, Shrike adı verilen gizemli bir yaratığa doğru hac yolculuğuna çıkan yedi farklı karakterin felsefi ve ürpertici hikayeleri."
+    },
+    {
+      "title": "Ender's Game",
+      "author": "Orson Scott Card",
+      "image": "https://covers.openlibrary.org/b/isbn/9780812550702-L.jpg",
+      "description": "Uzaylı bir ırka karşı verilecek savaşta insanlığı kurtarmak için askeri bir dahi olarak çocuk yaşta eğitilen Ender Wiggin'in empati, strateji ve yalnızlık dolu hikayesi."
+    },
+    {
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "image": "https://covers.openlibrary.org/b/isbn/9780804139021-L.jpg",
+      "description": "Mars görevinde çıkan bir fırtına sonrası öldü sanılarak geride bırakılan botanikçi Mark Watney'nin, kıvrak zekası ve bilimsel dehasıyla hayatta kalma mücadelesi."
+    },
+    {
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "image": "https://covers.openlibrary.org/b/isbn/9780593135204-L.jpg",
+      "description": "Güneş sistemini ve dünyayı yok edecek bilimsel bir felaketi önlemek için uzayda tek başına gözlerini açan ve ne yapacağını hatırlamaya çalışan bir bilim insanının sürükleyici macerası."
+    },
+    {
+      "title": "Snow Crash",
+      "author": "Neal Stephenson",
+      "image": "https://covers.openlibrary.org/b/isbn/9780553380958-L.jpg",
+      "description": "Metaverse kavramının doğuşunu müjdeleyen, yakın gelecekteki sanal gerçeklik ile antik Sümer mitolojisini siber suçlar ve kurumsal distopyayla birleştiren vizyoner roman."
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "https://covers.openlibrary.org/b/isbn/9780345339683-L.jpg",
+      "description": "Bilbo Baggins adlı evine düşkün bir hobbitin, büyücü Gandalf ve cücelerle birlikte ejderha Smaug'un çaldığı hazineyi geri almak için çıktığı masalsı Orta Dünya yolculuğu."
+    },
+    {
+      "title": "The Fellowship of the Ring",
+      "author": "J.R.R. Tolkien",
+      "image": "https://covers.openlibrary.org/b/isbn/9780345339706-L.jpg",
+      "description": "Yüzüklerin Efendisi üçlemesinin ilk adımı. Orta Dünya'nın kaderini belirleyecek olan Tek Yüzük'ün yok edilmesi amacıyla kurulan dokuz kişilik Yüzük Kardeşliği'nin efsanevi başlangıcı."
+    },
+    {
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "image": "https://covers.openlibrary.org/b/isbn/9780590353403-L.jpg",
+      "description": "Sıradan bir çocuk olduğunu sanan Harry Potter'ın büyücü olduğunu öğrenmesi ve Hogwarts Cadılık ve Büyücülük Okulu'nda dostluk, gizem ve sihir dolu yeni bir hayata adım atması."
+    },
+    {
+      "title": "Harry Potter and the Chamber of Secrets",
+      "author": "J.K. Rowling",
+      "image": "https://covers.openlibrary.org/b/isbn/9780439064866-L.jpg",
+      "description": "Hogwarts'taki ikinci yılında Harry, okulda öğrencileri taşa çeviren gizemli Sırlar Odası'nın açıldığını öğrenir ve karanlık bir tehdide karşı arkadaşlarıyla birlikte mücadele eder."
+    },
+    {
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "author": "J.K. Rowling",
+      "image": "https://covers.openlibrary.org/b/isbn/9780439136358-L.jpg",
+      "description": "Azlaban hapishanesinden kaçan azılı katil Sirius Black'in Harry'nin peşinde olduğu söylenmektedir. Harry, geçmişine dair sarsıcı gerçekleri öğreneceği karanlık bir yıla giriş yapar."
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "image": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
+      "description": "Büyük Birader'in her şeyi izlediği, düşünmenin suç kabul edildiği ve gerçeklerin manipüle edildiği, totaliter sistemlerin korkunç doğasını ele alan zamansız distopya."
+    },
+    {
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "image": "https://covers.openlibrary.org/b/isbn/9780451526342-L.jpg",
+      "description": "Bir çiftlikteki hayvanların insan sömürüsüne karşı ayaklanmasını konu alan, ancak zamanla lider domuzların diktatörleşmesini anlatan, SSCB ve totaliter rejimleri hicveden alegorik fabl."
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "image": "https://covers.openlibrary.org/b/isbn/9780060850524-L.jpg",
+      "description": "İnsanların laboratuvarlarda üretildiği, acının ve mutsuzluğun yapay ilaçlarla yok edildiği, özgürlüğün tüketime feda edildiği korkutucu ve haz odaklı bir gelecek tasarımı."
+    },
+    {
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "image": "https://covers.openlibrary.org/b/isbn/9781451673319-L.jpg",
+      "description": "İtfaiyecilerin yangın söndürmek yerine kitapları yaktığı, televizyon ekranlarıyla uyuşturulmuş bir toplumda, sorgulamaya başlayan itfaiyeci Guy Montag'ın isyanı."
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://covers.openlibrary.org/b/isbn/9780743273565-L.jpg",
+      "description": "1920'lerin caz çağında, gizemli milyoner Jay Gatsby'nin saplantılı aşkı Daisy uğruna inşa ettiği ihtişamlı ama bir o kadar da trajik Amerikan Rüyası illüzyonu."
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://covers.openlibrary.org/b/isbn/9780446310789-L.jpg",
+      "description": "Amerika'nın güneyinde ırkçılık ve adaletsizliğin gölgesinde, haksız yere suçlanan bir siyahiyi savunan avukat Atticus Finch'in hikayesini kızı Scout'ın gözünden anlatan dramatik bir eser."
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://covers.openlibrary.org/b/isbn/9780316769174-L.jpg",
+      "description": "Okuldan atılan genç Holden Caulfield'ın yetişkinlerin yapmacık ve ikiyüzlü dünyasına karşı duyduğu öfkeyi, yabancılaşmayı ve ergenlik buhranını anlatan ikonik bir büyüme romanı."
+    },
+    {
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "image": "https://covers.openlibrary.org/b/isbn/9780399501487-L.jpg",
+      "description": "Issız bir adaya düşen bir grup Britanyalı çocuğun, medeniyetten uzaklaştıkça içlerindeki vahşete yenik düşmelerini ve insan doğasındaki karanlığı gözler önüne seren sarsıcı roman."
+    },
+    {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "image": "https://covers.openlibrary.org/b/isbn/9780140449136-L.jpg",
+      "description": "Yoksul öğrenci Raskolnikov'un, 'üstün insan' teorisini kanıtlamak için işlediği cinayet sonrasında yaşadığı derin vicdan azabını ve ruhsal çöküşünü inceleyen psikolojik başyapıt."
+    },
+    {
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "image": "https://covers.openlibrary.org/b/isbn/9780374528379-L.jpg",
+      "description": "Ahlaksız bir baba ve onun birbirinden tamamen farklı karakterdeki üç oğlunun hikayesi üzerinden inanç, şüphe, ahlak ve baba katli mevzularını tartışan devasa felsefi roman."
+    },
+    {
+      "title": "The Idiot",
+      "author": "Fyodor Dostoevsky",
+      "image": "https://covers.openlibrary.org/b/isbn/9780140447927-L.jpg",
+      "description": "Budala derecesinde dürüst, iyi niyetli ve açık kalpli olan Prens Mişkin'in, hırs, kıskançlık ve entrikalarla dolu Petersburg sosyetesinde karşılaştığı trajik ve yıkıcı olaylar."
+    },
+    {
+      "title": "Metamorphosis",
+      "author": "Franz Kafka",
+      "image": "https://covers.openlibrary.org/b/isbn/9780312351687-L.jpg",
+      "description": "Bir sabah yatağında devasa bir böceğe dönüşmüş olarak uyanan kumaş pazarlamacısı Gregor Samsa'nın trajedisi üzerinden, toplumsal yabancılaşmayı ve aile içi bağların yapaylığını anlatan uzun öykü."
+    },
+    {
+      "title": "The Trial",
+      "author": "Franz Kafka",
+      "image": "https://covers.openlibrary.org/b/isbn/9780805210408-L.jpg",
+      "description": "Hangi suçu işlediğini bir türlü öğrenemediği, absürt ve labirentimsi bir mahkeme sistemi tarafından tutuklanan banka memuru Josef K.'nın bürokratik kabusu."
+    },
+    {
+      "title": "Thus Spoke Zarathustra",
+      "author": "Friedrich Nietzsche",
+      "image": "https://covers.openlibrary.org/b/isbn/9780140441185-L.jpg",
+      "description": "Nietzsche'nin 'Üstinsan', 'Tanrının ölümü' ve 'Ebedi dönüş' felsefelerini, yalnız yaşayan bilge Zerdüşt'ün ağzından, şiirsel ve aforizmalarla dolu bir dille sunduğu başyapıtı."
+    },
+    {
+      "title": "Beyond Good and Evil",
+      "author": "Friedrich Nietzsche",
+      "image": "https://covers.openlibrary.org/b/isbn/9780140449235-L.jpg",
+      "description": "Geleneksel ahlak kalıplarını, dogmaları ve geçmiş filozofların yanılgılarını yerden yere vuran; geleceğin özgür düşünceli filozoflarına rehberlik eden sarsıcı felsefi metin."
+    },
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "image": "https://covers.openlibrary.org/b/isbn/9780140449334-L.jpg",
+      "description": "Roma İmparatoru Marcus Aurelius'un savaş cephelerinde kendi kendine notlar şeklinde yazdığı, Stoacı felsefenin el kitabı niteliğindeki, erdem ve iç huzur üzerine zamansız düşünceleri."
+    }
+  ],
+  "onerilen": [
+    {
+      "title": "Rework",
+      "author": "Jason Fried",
+      "image": "https://covers.openlibrary.org/b/isbn/9780307463746-L.jpg",
+      "description": "Rework shows you a better, faster, easier way to succeed in business. Read it and you'll know why plans are actually harmful."
+    },
+    {
+      "title": "Zero to One",
+      "author": "Peter Thiel",
+      "image": "https://covers.openlibrary.org/b/isbn/9780804139298-L.jpg",
+      "description": "The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won't make a search engine."
+    },
+    {
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "image": "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg",
+      "description": "Even bad code can function. But if code isn't clean, it can bring a development organization to its knees."
+    },
+    {
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt",
+      "image": "https://covers.openlibrary.org/b/isbn/9780135957059-L.jpg",
+      "description": "One of the most significant books in practical software development, helping generations of programmers examine the very essence of their craft."
+    },
+    {
+      "title": "Refactoring",
+      "author": "Martin Fowler",
+      "image": "https://covers.openlibrary.org/b/isbn/9780134757599-L.jpg",
+      "description": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+    },
+    {
+      "title": "Design Patterns",
+      "author": "Erich Gamma",
+      "image": "https://covers.openlibrary.org/b/isbn/9780201633610-L.jpg",
+      "description": "Captures the engineering wisdom and blueprints of object-oriented software design from the world's master creators."
+    },
+    {
+      "title": "Code Complete",
+      "author": "Steve McConnell",
+      "image": "https://covers.openlibrary.org/b/isbn/9780735619678-L.jpg",
+      "description": "Widely considered one of the best practical guides to programming, packed with fully updated code examples and architecture tips."
+    },
+    {
+      "title": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen",
+      "image": "https://covers.openlibrary.org/b/isbn/9780262046305-L.jpg",
+      "description": "The definitive comprehensive guide to standard computing and mathematical sorting, matching, and architecture algorithms."
+    },
+    {
+      "title": "You Don't Know JS",
+      "author": "Kyle Simpson",
+      "image": "https://covers.openlibrary.org/b/isbn/9781491904152-L.jpg",
+      "description": "No matter how much experience you have with JavaScript, odds are you don't fully understand everything about the language."
+    },
+    {
+      "title": "Head First Design Patterns",
+      "author": "Eric Freeman",
+      "image": "https://covers.openlibrary.org/b/isbn/9782841773510-L.jpg",
+      "description": "A visually rich, brain-friendly guide to structural design, architecture, and behavioral patterns in development engineering."
+    },
+    {
+      "title": "Soft Skills",
+      "author": "John Sonmez",
+      "image": "https://covers.openlibrary.org/b/isbn/9781617292392-L.jpg",
+      "description": "The software developer's life manual. Covers career management, marketing yourself, fitness, finance, and productivity engineering."
+    },
+    {
+      "title": "The Clean Coder",
+      "author": "Robert C. Martin",
+      "image": "https://covers.openlibrary.org/b/isbn/9780137081073-L.jpg",
+      "description": "A guide to professional conduct, disciplines, engineering practices, and standard rules of pride for software developers."
+    },
+    {
+      "title": "Cracking the Coding Interview",
+      "author": "Gayle Laakmann McDowell",
+      "image": "https://covers.openlibrary.org/b/isbn/9780984782857-L.jpg",
+      "description": "189 programming questions and solutions, from binary trees to system engineering problems to help you pass backend developer exams."
+    },
+    {
+      "title": "Continuous Delivery",
+      "author": "Jez Humble",
+      "image": "https://covers.openlibrary.org/b/isbn/9780321601919-L.jpg",
+      "description": "Reliable software releases through build, test, pipeline, and deployment automation systems for development operations."
+    },
+    {
+      "title": "Domain-Driven Design",
+      "author": "Eric Evans",
+      "image": "https://covers.openlibrary.org/b/isbn/9780321125217-L.jpg",
+      "description": "Filling the gap between complex business processes and clean technical architecture in corporate software development."
+    },
+    {
+      "title": "Working Effectively with Legacy Code",
+      "author": "Michael Feathers",
+      "image": "https://covers.openlibrary.org/b/isbn/9780131177055-L.jpg",
+      "description": "Get crucial strategies for modifying, testing, maintaining, and protecting vast systems that lack proper documentation."
+    },
+    {
+      "title": "Patterns of Enterprise Application Architecture",
+      "author": "Martin Fowler",
+      "image": "https://covers.openlibrary.org/b/isbn/9780321127426-L.jpg",
+      "description": "Deep enterprise-level blueprints for building solid layers, database mapping, data concurrency, and system sessions."
+    },
+    {
+      "title": "The Mythical Man-Month",
+      "author": "Frederick P. Brooks Jr.",
+      "image": "https://covers.openlibrary.org/b/isbn/9780201835953-L.jpg",
+      "description": "Few books on project management have been as influential or timeless. Explains why adding manpower to a late software project makes it later."
+    },
+    {
+      "title": "Peopleware",
+      "author": "Tom DeMarco",
+      "image": "https://covers.openlibrary.org/b/isbn/9780321934116-L.jpg",
+      "description": "The major problems of our work are not technological, they are sociological in nature. A masterpiece on engineering management."
+    },
+    {
+      "title": "The Phoenix Project",
+      "author": "Gene Kim",
+      "image": "https://covers.openlibrary.org/b/isbn/9780988262591-L.jpg",
+      "description": "A novel about IT, DevOps, security engineering, and helping your business win through agile process transformations."
+    },
+    {
+      "title": "The Goal",
+      "author": "Eliyahu M. Goldratt",
+      "image": "https://covers.openlibrary.org/b/isbn/9780884271956-L.jpg",
+      "description": "A business graphic-style novel focusing on the Theory of Constraints, continuous improvement, pipeline bottlenecks, and manufacturing efficiency."
+    },
+    {
+      "title": "Drive",
+      "author": "Daniel H. Pink",
+      "image": "https://covers.openlibrary.org/b/isbn/9781594488849-L.jpg",
+      "description": "The surprising truth about what motivates us. Explores autonomy, mastery, and purpose versus standard reward systems."
+    },
+    {
+      "title": "Hooked",
+      "author": "Nir Eyal",
+      "image": "https://covers.openlibrary.org/b/isbn/9781591847786-L.jpg",
+      "description": "How to build habit-forming products. Explores the structural UI hook cycle that keeps users coming back naturally."
+    },
+    {
+      "title": "The Design of Everyday Things",
+      "author": "Don Norman",
+      "image": "https://covers.openlibrary.org/b/isbn/9780465050659-L.jpg",
+      "description": "Even the smartest among us can feel stupid trying to use a simple door or light switch. The ultimate Bible for UI/UX designers."
+    },
+    {
+      "title": "Don't Make Me Think",
+      "author": "Steve Krug",
+      "image": "https://covers.openlibrary.org/b/isbn/9780321965516-L.jpg",
+      "description": "A common-sense guide to web and mobile usability, interface layouts, engineering simple pathways, and clean interface designs."
+    },
+    {
+      "title": "Sprint",
+      "author": "Jake Knapp",
+      "image": "https://covers.openlibrary.org/b/isbn/9781471155864-L.jpg",
+      "description": "How to solve big problems and test new ideas in just five days, directly from the Google Ventures startup framework."
+    },
+    {
+      "title": "Badass: Making Users Awesome",
+      "author": "Kathy Sierra",
+      "image": "https://covers.openlibrary.org/b/isbn/9781491919019-L.jpg",
+      "description": "If you want your product to succeed, stop focusing on making a great product—focus on making your users successful."
+    },
+    {
+      "title": "The Innovator's Dilemma",
+      "author": "Clayton M. Christensen",
+      "image": "https://covers.openlibrary.org/b/isbn/9780875845852-L.jpg",
+      "description": "When new technologies cause great firms to fail. Explores disruptive innovation, market transformation, and engineering pivots."
+    },
+    {
+      "title": "Crossing the Chasm",
+      "author": "Geoffrey A. Moore",
+      "image": "https://covers.openlibrary.org/b/isbn/9780060517120-L.jpg",
+      "description": "Marketing and selling high-tech products to mainstream customers, navigating the gap between early adopters and pragmatists."
+    },
+    {
+      "title": "High Output Management",
+      "author": "Andrew S. Grove",
+      "image": "https://covers.openlibrary.org/b/isbn/9780679762881-L.jpg",
+      "description": "The essential handbook for tech managers, directors, and startup founders from the former legendary CEO of Intel Corporation."
+    },
+    {
+      "title": "Measure What Matters",
+      "author": "John Doerr",
+      "image": "https://covers.openlibrary.org/b/isbn/9780525536222-L.jpg",
+      "description": "How Google, Bono, and the Gates Foundation rock the world with OKRs (Objectives and Key Results) frameworks."
+    },
+    {
+      "title": "The Hard Thing About Hard Things",
+      "author": "Ben Horowitz",
+      "image": "https://covers.openlibrary.org/b/isbn/9780062273208-L.jpg",
+      "description": "Building a business when there are no easy answers. Brutally honest corporate lessons on management, execution, and crises."
+    },
+    {
+      "title": "Creativity, Inc.",
+      "author": "Ed Catmull",
+      "image": "https://covers.openlibrary.org/b/isbn/9780812993011-L.jpg",
+      "description": "Overcoming the unseen forces that stand in the way of true inspiration, written by the legendary co-founder of Pixar Animation."
+    },
+    {
+      "title": "Principles: Life and Work",
+      "author": "Ray Dalio",
+      "image": "https://covers.openlibrary.org/b/isbn/9781501124020-L.jpg",
+      "description": "Dalio shares the unconventional business principles he developed to build Bridgewater Associates into an empire."
+    },
+    {
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "image": "https://covers.openlibrary.org/b/isbn/9781451648539-L.jpg",
+      "description": "The exclusive, bestselling biography of Apple's iconic, creative, driven, and disruptive tech trailblazer."
+    },
+    {
+      "title": "Elon Musk",
+      "author": "Ashlee Vance",
+      "image": "https://covers.openlibrary.org/b/isbn/9780062301239-L.jpg",
+      "description": "Tesla, SpaceX, and the quest for a fantastic future. A deep dive into the engineering mindset behind multi-planetary goals."
+    },
+    {
+      "title": "Man's Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "image": "https://covers.openlibrary.org/b/isbn/9780807014295-L.jpg",
+      "description": "A psychiatrist's memoir of surviving Nazi concentration camps, exploring the vital human psychological need for a dedicated purpose."
+    },
+    {
+      "title": "The Daily Stoic",
+      "author": "Ryan Holiday",
+      "image": "https://covers.openlibrary.org/b/isbn/9780735211735-L.jpg",
+      "description": "366 days of Stoic wisdom, meditation, resilience engineering, and focus on control, directly translating to chaotic workspaces."
+    },
+    {
+      "title": "Ego Is the Enemy",
+      "author": "Ryan Holiday",
+      "image": "https://covers.openlibrary.org/b/isbn/9781591847816-L.jpg",
+      "description": "Many of us think the main obstacle to a successful life is the outside world. In fact, the enemy is usually found within."
+    },
+    {
+      "title": "Obstacle Is the Way",
+      "author": "Ryan Holiday",
+      "image": "https://covers.openlibrary.org/b/isbn/9781591846352-L.jpg",
+      "description": "The timeless art of turning trials into triumphs, heavily based on standard Roman Stoicism and military problem-solving."
+    },
+    {
+      "title": "Mindset: The New Psychology of Success",
+      "author": "Carol S. Dweck",
+      "image": "https://covers.openlibrary.org/b/isbn/9780345472328-L.jpg",
+      "description": "Explores the power of a growth mindset versus a fixed mindset, transforming how we view intelligence, engineering skill, and talent."
+    },
+    {
+      "title": "Influence: Science and Practice",
+      "author": "Robert B. Cialdini",
+      "image": "https://covers.openlibrary.org/b/isbn/9780321188144-L.jpg",
+      "description": "The classic book on corporate persuasion, explaining the psychological triggers that make people say yes in negotiations."
+    },
+    {
+      "title": "Never Split the Difference",
+      "author": "Chris Voss",
+      "image": "https://covers.openlibrary.org/b/isbn/9781847941497-L.jpg",
+      "description": "Negotiating as if your life depended on it. A former FBI hostage negotiator shares powerful psychological strategies for tech contracts."
+    },
+    {
+      "title": "Crucial Conversations",
+      "author": "Kerry Patterson",
+      "image": "https://covers.openlibrary.org/b/isbn/9780071401944-L.jpg",
+      "description": "Tools for talking when stakes are high, opinions vary, and emotions run strong. Perfect for team sprints and launch days."
+    },
+    {
+      "title": "Radical Candor",
+      "author": "Kim Scott",
+      "image": "https://covers.openlibrary.org/b/isbn/9781250103505-L.jpg",
+      "description": "How to be a kickass boss without losing your humanity. Teaches you how to challenge directly while caring personally about developers."
+    },
+    {
+      "title": "Dare to Lead",
+      "author": "Brené Brown",
+      "image": "https://covers.openlibrary.org/b/isbn/9781781257128-L.jpg",
+      "description": "Brave work. Tough conversations. Whole hearts. Explores empathy, corporate structural trust, and operational leadership rules."
+    },
+    {
+      "title": "Extreme Ownership",
+      "author": "Jocko Willink",
+      "image": "https://covers.openlibrary.org/b/isbn/9781250071118-L.jpg",
+      "description": "How U.S. Navy SEALs lead and win. Explains how engineering teams must take absolute accountability for pipeline deployment failures."
+    },
+    {
+      "title": "The War of Art",
+      "author": "Steven Pressfield",
+      "image": "https://covers.openlibrary.org/b/isbn/9780446691437-L.jpg",
+      "description": "Break through the creative blocks and win your inner battles against procrastination, doubt, and mental project resistance."
+    },
+    {
+      "title": "Steal Like an Artist",
+      "author": "Austin Kleon",
+      "image": "https://covers.openlibrary.org/b/isbn/9780761169253-L.jpg",
+      "description": "10 things nobody told you about being creative. Explores pattern reuse, code inspirations, and standard UI components layouts."
+    },
+    {
+      "title": "Show Your Work!",
+      "author": "Austin Kleon",
+      "image": "https://covers.openlibrary.org/b/isbn/9780761178972-L.jpg",
+      "description": "10 ways to share your creativity and get discovered. An essential short manual for open-source developers and software designers."
+    }
+  ]
+}
