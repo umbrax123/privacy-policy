@@ -14,6 +14,241 @@
       "title": "Deep Work",
       "author": "Cal Newport",
       "image": "https://images-na.ssl-images-amazon.com/images/I/417P75vFA8L._SX326_BO1,204,203,200_.jpg"
+    },
+    {
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71f6vSIdW4L.jpg"
+    },
+    {
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81vvgZqCskL.jpg"
+    },
+    {
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71QKQ9mwV7L.jpg"
+    },
+    {
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81bnd0DBU9L.jpg"
+    },
+    {
+      "title": "Can't Hurt Me",
+      "author": "David Goggins",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81g7fM6idbL.jpg"
+    },
+    {
+      "title": "Start with Why",
+      "author": "Simon Sinek",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/7175YpTSN7L.jpg"
+    },
+    {
+      "title": "Good to Great",
+      "author": "Jim Collins",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61S8n-N7T4L.jpg"
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71aFt4+OTOL.jpg"
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/713jIoMO3UL.jpg"
+    },
+    {
+      "title": "Homo Deus: A Brief History of Tomorrow",
+      "author": "Yuval Noah Harari",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81xV4f5yXRL.jpg"
+    },
+    {
+      "title": "Digital Minimalism",
+      "author": "Cal Newport",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71M5g9G7bFL.jpg"
+    },
+    {
+      "title": "The Power of Habit",
+      "author": "Charles Duhigg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71N0ZJgK3SL.jpg"
+    },
+    {
+      "title": "Originals",
+      "author": "Adam Grant",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71u968C09FL.jpg"
+    },
+    {
+      "title": "Grit: The Power of Passion and Perseverance",
+      "author": "Angela Duckworth",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71fVb6Y7MRL.jpg"
+    },
+    {
+      "title": "Outliers: The Story of Success",
+      "author": "Malcolm Gladwell",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61wXQo1g6QL.jpg"
+    },
+    {
+      "title": "Principles",
+      "author": "Ray Dalio",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81as32z7yAL.jpg"
+    },
+    {
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/818vY3gHFFL.jpg"
+    },
+    {
+      "title": "Blink: The Power of Thinking Without Thinking",
+      "author": "Malcolm Gladwell",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71vOnwD326L.jpg"
+    },
+    {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81ym3QUd3KL.jpg"
+    },
+    {
+      "title": "Neuromancer",
+      "author": "William Gibson",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91N7T7h63BL.jpg"
+    },
+    {
+      "title": "Foundation",
+      "author": "Isaac Asimov",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71D925aF3uL.jpg"
+    },
+    {
+      "title": "Hyperion",
+      "author": "Dan Simmons",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91v0v3bLqSL.jpg"
+    },
+    {
+      "title": "Ender's Game",
+      "author": "Orson Scott Card",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81X48k-CWeL.jpg"
+    },
+    {
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81v909v1uyL.jpg"
+    },
+    {
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91YV8WfU8PL.jpg"
+    },
+    {
+      "title": "Snow Crash",
+      "author": "Neal Stephenson",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/816K886OwfL.jpg"
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/710+HcoZqFL.jpg"
+    },
+    {
+      "title": "The Fellowship of the Ring",
+      "author": "J.R.R. Tolkien",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91jBdaAIdvL.jpg"
+    },
+    {
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91ocU8970hL.jpg"
+    },
+    {
+      "title": "Harry Potter and the Chamber of Secrets",
+      "author": "J.K. Rowling",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91OC9wI8cDL.jpg"
+    },
+    {
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "author": "J.K. Rowling",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91SZ1e-n9NL.jpg"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71kxaZ9Ru2L.jpg"
+    },
+    {
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71wdbkiRokL.jpg"
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81U6S5r6pSL.jpg"
+    },
+    {
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61z79jBKgIL.jpg"
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81af+7v8DPL.jpg"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81gepf1eMqL.jpg"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJgfL.jpg"
+    },
+    {
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81WUAoL-wFL.jpg"
+    },
+    {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71O2XI6S8uL.jpg"
+    },
+    {
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71NbaC-zDEL.jpg"
+    },
+    {
+      "title": "The Idiot",
+      "author": "Fyodor Dostoevsky",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81p-e3o3RPL.jpg"
+    },
+    {
+      "title": "Metamorphosis",
+      "author": "Franz Kafka",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61N+V38U0mL.jpg"
+    },
+    {
+      "title": "The Trial",
+      "author": "Franz Kafka",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81U1b7pGcoL.jpg"
+    },
+    {
+      "title": "Thus Spoke Zarathustra",
+      "author": "Friedrich Nietzsche",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81e59UfQ0fL.jpg"
+    },
+    {
+      "title": "Beyond Good and Evil",
+      "author": "Friedrich Nietzsche",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71b1SByyG9L.jpg"
+    },
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/718t8u7+9TL.jpg"
     }
   ],
   "onerilen": [
@@ -28,6 +263,294 @@
       "author": "Peter Thiel",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71mUcnOf7AL.jpg",
       "description": "The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won't make a search engine."
+    },
+    {
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41xShbXbyZL.jpg",
+      "description": "Even bad code can function. But if code isn't clean, it can bring a development organization to its knees."
+    },
+    {
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41as+w6Z7OL.jpg",
+      "description": "One of the most significant books in practical software development, helping generations of programmers examine the very essence of their craft."
+    },
+    {
+      "title": "Refactoring",
+      "author": "Martin Fowler",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/416G4gM083L.jpg",
+      "description": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+    },
+    {
+      "title": "Design Patterns",
+      "author": "Erich Gamma",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81gtKoapHFL.jpg",
+      "description": "Captures the engineering wisdom and blueprints of object-oriented software design from the world's master creators."
+    },
+    {
+      "title": "Code Complete",
+      "author": "Steve McConnell",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41O-wDInBGL.jpg",
+      "description": "Widely considered one of the best practical guides to programming, packed with fully updated code examples and architecture tips."
+    },
+    {
+      "title": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41v9S6S6vDL.jpg",
+      "description": "The definitive comprehensive guide to standard computing and mathematical sorting, matching, and architecture algorithms."
+    },
+    {
+      "title": "You Don't Know JS",
+      "author": "Kyle Simpson",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71mK9VwK9EL.jpg",
+      "description": "No matter how much experience you have with JavaScript, odds are you don't fully understand everything about the language."
+    },
+    {
+      "title": "Head First Design Patterns",
+      "author": "Eric Freeman",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81CRN6vI43L.jpg",
+      "description": "A visually rich, brain-friendly guide to structural design, architecture, and behavioral patterns in development engineering."
+    },
+    {
+      "title": "Soft Skills",
+      "author": "John Sonmez",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41b1G5H32XL.jpg",
+      "description": "The software developer's life manual. Covers career management, marketing yourself, fitness, finance, and productivity engineering."
+    },
+    {
+      "title": "The Clean Coder",
+      "author": "Robert C. Martin",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/515p-2+4uXL.jpg",
+      "description": "A guide to professional conduct, disciplines, engineering practices, and standard rules of pride for software developers."
+    },
+    {
+      "title": "Cracking the Coding Interview",
+      "author": "Gayle Laakmann McDowell",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41oYsXjLvZL.jpg",
+      "description": "189 programming questions and solutions, from binary trees to system engineering problems to help you pass backend developer exams."
+    },
+    {
+      "title": "Continuous Delivery",
+      "author": "Jez Humble",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51w3fN5-iML.jpg",
+      "description": "Reliable software releases through build, test, pipeline, and deployment automation systems for development operations."
+    },
+    {
+      "title": "Domain-Driven Design",
+      "author": "Eric Evans",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51EbyGZkMIL.jpg",
+      "description": "Filling the gap between complex business processes and clean technical architecture in corporate software development."
+    },
+    {
+      "title": "Working Effectively with Legacy Code",
+      "author": "Michael Feathers",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51N-3Y8vWPL.jpg",
+      "description": "Get crucial strategies for modifying, testing, maintaining, and protecting vast systems that lack proper documentation."
+    },
+    {
+      "title": "Patterns of Enterprise Application Architecture",
+      "author": "Martin Fowler",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41P6v-6-4uL.jpg",
+      "description": "Deep enterprise-level blueprints for building solid layers, database mapping, data concurrency, and system sessions."
+    },
+    {
+      "title": "The Mythical Man-Month",
+      "author": "Frederick P. Brooks Jr.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51c-cQW9cML.jpg",
+      "description": "Few books on project management have been as influential or timeless. Explains why adding manpower to a late software project makes it later."
+    },
+    {
+      "title": "Peopleware",
+      "author": "Tom DeMarco",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41C4+mZkRUL.jpg",
+      "description": "The major problems of our work are not technological, they are sociological in nature. A masterpiece on engineering management."
+    },
+    {
+      "title": "The Phoenix Project",
+      "author": "Gene Kim",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71RzM2-W99L.jpg",
+      "description": "A novel about IT, DevOps, security engineering, and helping your business win through agile process transformations."
+    },
+    {
+      "title": "The Goal",
+      "author": "Eliyahu M. Goldratt",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/519N-VmWn8L.jpg",
+      "description": "A business graphic-style novel focusing on the Theory of Constraints, continuous improvement, pipeline bottlenecks, and manufacturing efficiency."
+    },
+    {
+      "title": "Drive",
+      "author": "Daniel H. Pink",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71LhP8hN8FL.jpg",
+      "description": "The surprising truth about what motivates us. Explores autonomy, mastery, and purpose versus standard reward systems."
+    },
+    {
+      "title": "Hooked",
+      "author": "Nir Eyal",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71-+X-N6PXL.jpg",
+      "description": "How to build habit-forming products. Explores the structural UI hook cycle that keeps users coming back naturally."
+    },
+    {
+      "title": "The Design of Everyday Things",
+      "author": "Don Norman",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81ZfP5vAmlL.jpg",
+      "description": "Even the smartest among us can feel stupid trying to use a simple door or light switch. The ultimate Bible for UI/UX designers."
+    },
+    {
+      "title": "Don't Make Me Think",
+      "author": "Steve Krug",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Z2b+zDsfL.jpg",
+      "description": "A common-sense guide to web and mobile usability, interface layouts, engineering simple pathways, and clean interface designs."
+    },
+    {
+      "title": "Sprint",
+      "author": "Jake Knapp",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/718yG7Uq1vL.jpg",
+      "description": "How to solve big problems and test new ideas in just five days, directly from the Google Ventures startup framework."
+    },
+    {
+      "title": "Badass: Making Users Awesome",
+      "author": "Kathy Sierra",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51X5f82k9-L.jpg",
+      "description": "If you want your product to succeed, stop focusing on making a great product—focus on making your users successful."
+    },
+    {
+      "title": "The Innovator's Dilemma",
+      "author": "Clayton M. Christensen",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/817-YFscwNL.jpg",
+      "description": "When new technologies cause great firms to fail. Explores disruptive innovation, market transformation, and engineering pivots."
+    },
+    {
+      "title": "Crossing the Chasm",
+      "author": "Geoffrey A. Moore",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/714X9T9j-vL.jpg",
+      "description": "Marketing and selling high-tech products to mainstream customers, navigating the gap between early adopters and pragmatists."
+    },
+    {
+      "title": "High Output Management",
+      "author": "Andrew S. Grove",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71UjR+-pZ-L.jpg",
+      "description": "The essential handbook for tech managers, directors, and startup founders from the former legendary CEO of Intel Corporation."
+    },
+    {
+      "title": "Measure What Matters",
+      "author": "John Doerr",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/7142Hn+rM1L.jpg",
+      "description": "How Google, Bono, and the Gates Foundation rock the world with OKRs (Objectives and Key Results) frameworks."
+    },
+    {
+      "title": "The Hard Thing About Hard Things",
+      "author": "Ben Horowitz",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81v7K8vL6ML.jpg",
+      "description": "Building a business when there are no easy answers. Brutally honest corporate lessons on management, execution, and crises."
+    },
+    {
+      "title": "Creativity, Inc.",
+      "author": "Ed Catmull",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71U66Gf3WOL.jpg",
+      "description": "Overcoming the unseen forces that stand in the way of true inspiration, written by the legendary co-founder of Pixar Animation."
+    },
+    {
+      "title": "Principles: Life and Work",
+      "author": "Ray Dalio",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81as32z7yAL.jpg",
+      "description": "Dalio shares the unconventional business principles he developed to build Bridgewater Associates into an empire."
+    },
+    {
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81V9r677W0L.jpg",
+      "description": "The exclusive, bestselling biography of Apple's iconic, creative, driven, and disruptive tech trailblazer."
+    },
+    {
+      "title": "Elon Musk",
+      "author": "Ashlee Vance",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/5112YFs6SML.jpg",
+      "description": "Tesla, SpaceX, and the quest for a fantastic future. A deep dive into the engineering mindset behind multi-planetary goals."
+    },
+    {
+      "title": "Man's Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61c8rX99r1L.jpg",
+      "description": "A psychiatrist's memoir of surviving Nazi concentration camps, exploring the vital human psychological need for a dedicated purpose."
+    },
+    {
+      "title": "The Daily Stoic",
+      "author": "Ryan Holiday",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71exbZ99pWL.jpg",
+      "description": "366 days of Stoic wisdom, meditation, resilience engineering, and focus on control, directly translating to chaotic workspaces."
+    },
+    {
+      "title": "Ego Is the Enemy",
+      "author": "Ryan Holiday",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/713v99G+HFL.jpg",
+      "description": "Many of us think the main obstacle to a successful life is the outside world. In fact, the enemy is usually found within."
+    },
+    {
+      "title": "Obstacle Is the Way",
+      "author": "Ryan Holiday",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71A-M+7e0OL.jpg",
+      "description": "The timeless art of turning trials into triumphs, heavily based on standard Roman Stoicism and military problem-solving."
+    },
+    {
+      "title": "Mindset: The New Psychology of Success",
+      "author": "Carol S. Dweck",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61694h1-rSL.jpg",
+      "description": "Explores the power of a growth mindset versus a fixed mindset, transforming how we view intelligence, engineering skill, and talent."
+    },
+    {
+      "title": "Influence: Science and Practice",
+      "author": "Robert B. Cialdini",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81x1-F9983L.jpg",
+      "description": "The classic book on corporate persuasion, explaining the psychological triggers that make people say yes in negotiations."
+    },
+    {
+      "title": "Never Split the Difference",
+      "author": "Chris Voss",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81M5G97b7DL.jpg",
+      "description": "Negotiating as if your life depended on it. A former FBI hostage negotiator shares powerful psychological strategies for tech contracts."
+    },
+    {
+      "title": "Crucial Conversations",
+      "author": "Kerry Patterson",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71R+-vU8KFL.jpg",
+      "description": "Tools for talking when stakes are high, opinions vary, and emotions run strong. Perfect for team sprints and launch days."
+    },
+    {
+      "title": "Radical Candor",
+      "author": "Kim Scott",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71S+-G99kBL.jpg",
+      "description": "How to be a kickass boss without losing your humanity. Teaches you how to challenge directly while caring personally about developers."
+    },
+    {
+      "title": "Dare to Lead",
+      "author": "Brené Brown",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/716u8WfU8PL.jpg",
+      "description": "Brave work. Tough conversations. Whole hearts. Explores empathy, corporate structural trust, and operational leadership rules."
+    },
+    {
+      "title": "Extreme Ownership",
+      "author": "Jocko Willink",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81v7+-9kSML.jpg",
+      "description": "How U.S. Navy SEALs lead and win. Explains how engineering teams must take absolute accountability for pipeline deployment failures."
+    },
+    {
+      "title": "The War of Art",
+      "author": "Steven Pressfield",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41K99vV8HBL.jpg",
+      "description": "Break through the creative blocks and win your inner battles against procrastination, doubt, and mental project resistance."
+    },
+    {
+      "title": "Steal Like an Artist",
+      "author": "Austin Kleon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61A-V9-dFKL.jpg",
+      "description": "10 things nobody told you about being creative. Explores pattern reuse, code inspirations, and standard UI components layouts."
+    },
+    {
+      "title": "Show Your Work!",
+      "author": "Austin Kleon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61b-9-eF0OL.jpg",
+      "description": "10 ways to share your creativity and get discovered. An essential short manual for open-source developers and software designers."
     }
   ]
 }
