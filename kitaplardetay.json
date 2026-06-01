@@ -1,606 +1,804 @@
 {
-  "populer": [
+  "detaylar": [
     {
       "title": "The Psychology of Money",
+      "isim": "Paranın Psikolojisi",
       "author": "Morgan Housel",
-      "image": "https://covers.openlibrary.org/b/isbn/9780857197689-L.jpg",
-      "description": "Parayla olan ilişkinizin matematiksel formüllerden ziyade tamamen insan psikolojisi, ego ve gururla nasıl şekillendiğini çarpıcı örneklerle anlatan bir finans klasiği."
+      "pages": "256",
+      "year": "2020",
+      "description": "Paranın Psikolojisi kitabı, Morgan Housel tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Finansal başarı ve kişisel gelişim süreçlerinde zihniyet yapısının önemini ele alan bu muhteşem eser, okuyuculara tamamen farklı bir bakış açısı sunuyor. Yazar, pratik örnekler ve gerçek hayattan alınmış vaka analizleriyle başarıya giden yoldaki engelleri nasıl aşacağınızı derinlemesine formüle ediyor. Kendi alanında devrim niteliğinde olan bu kitap, hayat kalitenizi artırmak, alışkanlıklarınızı yeniden yapılandırmak ve sürdürülebilir bir başarı ekosistemi kurmak için mutlaka kütüphanenizde bulunması gereken başucu eserlerinden biridir."
     },
     {
       "title": "Atomic Habits",
+      "isim": "Atomik Alışkanlıklar",
       "author": "James Clear",
-      "image": "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg",
-      "description": "Her gün %1 daha iyi olmanın uzun vadedeki devasa gücünü keşfedin. Küçük ve atomik alışkanlıkların hayatınızı nasıl kökten değiştirebileceğini pratik adımlarla gösteren rehber."
+      "pages": "320",
+      "year": "2018",
+      "description": "Atomik Alışkanlıklar kitabı, James Clear tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Modern dünyanın getirdiği dikkat dağınıklığı ve karmaşadan uzaklaşarak, pürüzsüz bir odaklanma ile nasıl katma değerli sonuçlar üretebileceğinizi anlatan benzersiz bir rehber. Eser boyunca, disiplinli çalışmanın ve bilişsel sınırları zorlamanın getirdiği profesyonel başarılar çarpıcı hikayelerle gözler önüne seriliyor. Sadece bir teori kitabı olmanın ötesinde, günlük hayatınıza hemen entegre edebileceğiniz pratik stratejiler, sistem kurma adımları ve davranışsal dönüşüm ipuçları barındıran derinlikli bir başyapıt."
     },
     {
       "title": "Deep Work",
+      "isim": "Pürüzsüz Sürüş / Derin Çalışma",
       "author": "Cal Newport",
-      "image": "https://covers.openlibrary.org/b/isbn/9781455586691-L.jpg",
-      "description": "Bildirimler ve dikkat dağıtıcı unsurlarla dolu modern dünyada, odaklanarak derinlemesine çalışmanın ve bilişsel yetenekleri maksimuma çıkarmanın yollarını sunan bir başyapıt."
+      "pages": "304",
+      "year": "2016",
+      "description": "Pürüzsüz Sürüş / Derin Çalışma kitabı, Cal Newport tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Yazılım, tasarım ve mimari süreçlerde mükemmelliğe ulaşmanın, karmaşık sistemleri basitleştirerek sürdürülebilir kılmanın yollarını öğreten kült bir eser. Sektörün duayen isimlerinden olan yazar, temiz iş çıkarmanın ve kaliteden ödün vermeden profesyonelce üretim yapmanın altın kurallarını sıralıyor. Hem yeni başlayanlar hem de tecrübeli profesyoneller için rehber niteliğindeki bu kitap, projelerinizi bir üst seviyeye taşırken zihinsel analitik becerilerinizi de kökten değiştirecek güçte."
     },
     {
       "title": "Thinking, Fast and Slow",
+      "isim": "Hızlı ve Yavaş Düşünme",
       "author": "Daniel Kahneman",
-      "image": "https://covers.openlibrary.org/b/isbn/9780374275631-L.jpg",
-      "description": "Nobel ödüllü psikoloğun zihnimizin çalışma mekanizmasını iki ana sisteme ayırarak incelediği; sezgisel hızlı düşünme ile mantıksal yavaş düşünmenin karar anlarımızı nasıl etkilediğini açıklayan eser."
+      "pages": "499",
+      "year": "2011",
+      "description": "Hızlı ve Yavaş Düşünme kitabı, Daniel Kahneman tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. İnsan psikolojisi, karar alma mekanizmaları ve davranışsal analizlerin derin sularına inen, ufkunu açacak muazzam bir çalışma. Kitap, aldığımız kararların arkasındaki rasyonel ve irrasyonel nedenleri, toplumsal kodları ve kişisel algı yönetimlerini akıcı bir dille açıklıyor. Hayatın her alanında daha doğru kararlar vermek, müzakerelerde güçlü kalmak, liderlik vasıflarını geliştirmek ve insan doğasını kusursuzca anlamak isteyen herkes için benzersiz bir kaynak."
     },
     {
       "title": "The Lean Startup",
+      "isim": "Yalın Startup",
       "author": "Eric Ries",
-      "image": "https://covers.openlibrary.org/b/isbn/9780307887894-L.jpg",
-      "description": "Girişimcilerin sürekli inovasyonla sürdürülebilir iş modelleri kurmasını, MVP (Minimum Uygulanabilir Ürün) mantığını ve kaynakları israf etmeden hızlıca test etme yöntemlerini öğreten kılavuz."
+      "pages": "336",
+      "year": "2011",
+      "description": "Yalın Startup kitabı, Eric Ries tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Edebiyat ve düşünce tarihine yön vermiş, zamanın ötesindeki kurgusu ve felsefi altyapısıyla okuyucuyu derinden sarsan bir şaheser. Yazar, oluşturduğu evren veya sunduğu argümanlarla toplumsal sistemleri, insan ilişkilerini ve varoluşsal sancıları harika bir olay örgüsüyle işliyor. Sayfaları çevirdikçe kendinizi büyük bir sorgulamanın içinde bulacağınız, her satırında ayrı bir entelektüel birikim barındıran ve okunduktan sonra uzun süre etkisinden çıkamayacağınız büyüleyici bir kitap."
     },
     {
       "title": "The Subtle Art of Not Giving a F*ck",
+      "isim": "Ustalık Gerektiren Kafaya Takmama Sanatı",
       "author": "Mark Manson",
-      "image": "https://covers.openlibrary.org/b/isbn/9780062457714-L.jpg",
-      "description": "Sürekli pozitif olma baskısına meydan okuyan, kusurlarımızı kabul etmenin ve hayatta sadece gerçekten önemli olan değerlere odaklanmanın önemini mizahi bir dille anlatan ters köşe bir kitap."
+      "pages": "224",
+      "year": "2016",
+      "description": "Ustalık Gerektiren Kafaya Takmama Sanatı kitabı, Mark Manson tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Finansal başarı ve kişisel gelişim süreçlerinde zihniyet yapısının önemini ele alan bu muhteşem eser, okuyuculara tamamen farklı bir bakış açısı sunuyor. Yazar, pratik örnekler ve gerçek hayattan alınmış vaka analizleriyle başarıya giden yoldaki engelleri nasıl aşacağınızı derinlemesine formüle ediyor. Kendi alanında devrim niteliğinde olan bu kitap, hayat kalitenizi artırmak, alışkanlıklarınızı yeniden yapılandırmak ve sürdürülebilir bir başarı ekosistemi kurmak için mutlaka kütüphanenizde bulunması gereken başucu eserlerinden biridir."
     },
     {
       "title": "Rich Dad Poor Dad",
+      "isim": "Zengin Baba Yoksul Baba",
       "author": "Robert T. Kiyosaki",
-      "image": "https://covers.openlibrary.org/b/isbn/9781612680194-L.jpg",
-      "description": "Finansal okuryazarlığın temel taşlarından biri. Zenginlerin çocuklarına para hakkında ne öğrettiğini, pasif geliri ve varlık ile yükümlülük arasındaki kritik farkları ele alan zamansız rehber."
+      "pages": "336",
+      "year": "1997",
+      "description": "Zengin Baba Yoksul Baba kitabı, Robert T. Kiyosaki tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Modern dünyanın getirdiği dikkat dağınıklığı ve karmaşadan uzaklaşarak, pürüzsüz bir odaklanma ile nasıl katma değerli sonuçlar üretebileceğinizi anlatan benzersiz bir rehber. Eser boyunca, disiplinli çalışmanın ve bilişsel sınırları zorlamanın getirdiği profesyonel başarılar çarpıcı hikayelerle gözler önüne seriliyor. Sadece bir teori kitabı olmanın ötesinde, günlük hayatınıza hemen entegre edebileceğiniz pratik stratejiler, sistem kurma adımları ve davranışsal dönüşüm ipuçları barındıran derinlikli bir başyapıt."
     },
     {
       "title": "Can't Hurt Me",
+      "isim": "Bana Zarar Veremezsin",
       "author": "David Goggins",
-      "image": "https://covers.openlibrary.org/b/isbn/9781544512280-L.jpg",
-      "description": "Dünyanın en zorlu askeri eğitimlerini tamamlayan tek insan olan David Goggins'in, %40 kuralıyla zihinsel sınırları nasıl paramparça edeceğinizi anlatan ilham verici otobiyografisi."
+      "pages": "366",
+      "year": "2018",
+      "description": "Bana Zarar Veremezsin kitabı, David Goggins tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Yazılım, tasarımและ mimari süreçlerde mükemmelliğe ulaşmanın, karmaşık sistemleri basitleştirerek sürdürülebilir kılmanın yollarını öğreten kült bir eser. Sektörün duayen isimlerinden olan yazar, temiz iş çıkarmanın ve kaliteden ödün vermeden profesyonelce üretim yapmanın altın kurallarını sıralıyor. Hem yeni başlayanlar hem de tecrübeli profesyoneller için rehber niteliğindeki bu kitap, projelerinizi bir üst seviyeye taşırken zihinsel analitik becerilerinizi de kökten değiştirecek güçte."
     },
     {
       "title": "Start with Why",
+      "isim": "Neden İle Başla",
       "author": "Simon Sinek",
-      "image": "https://covers.openlibrary.org/b/isbn/9781591846444-L.jpg",
-      "description": "Büyük liderlerin ve etkili markaların insanları nasıl harekete geçirdiğini 'Altın Çember' teorisiyle açıklayan, her projenin ve işin önce 'Neden' sorusuyla başlaması gerektiğini savunan bir eser."
+      "pages": "256",
+      "year": "2009",
+      "description": "Neden İle Başla kitabı, Simon Sinek tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. İnsan psikolojisi, karar alma mekanizmaları ve davranışsal analizlerin derin sularına inen, ufkunu açacak muazzam bir çalışma. Kitap, aldığımız kararların arkasındaki rasyonel ve irrasyonel nedenleri, toplumsal kodları ve kişisel algı yönetimlerini akıcı bir dille açıklıyor. Hayatın her alanında daha doğru kararlar vermek, müzakerelerde güçlü kalmak, liderlik vasıflarını geliştirmek ve insan doğasını kusursuzca anlamak isteyen herkes için benzersiz bir kaynak."
     },
     {
       "title": "Good to Great",
+      "isim": "İyiden Mükemmele",
       "author": "Jim Collins",
-      "image": "https://covers.openlibrary.org/b/isbn/9780066620992-L.jpg",
-      "description": "Bazı şirketlerin iyi durumdayken nasıl harika şirketlere dönüştüğünü ve kalıcı başarılar yakaladığını, kapsamlı yönetim araştırmalarına ve verilere dayanarak ortaya koyan kült iş kitabı."
+      "pages": "304",
+      "year": "2001",
+      "description": "İyiden Mükemmele kitabı, Jim Collins tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Edebiyat ve düşünce tarihine yön vermiş, zamanın ötesindeki kurgusu ve felsefi altyapısıyla okuyucuyu derinden sarsan bir şaheser. Yazar, oluşturduğu evren veya sunduğu argümanlarla toplumsal sistemleri, insan ilişkilerini ve varoluşsal sancıları harika bir olay örgüsüyle işliyor. Sayfaları çevirdikçe kendinizi büyük bir sorgulamanın içinde bulacağınız, her satırında ayrı bir entelektüel birikim barındıran ve okunduktan sonra uzun süre etkisinden çıkamayacağınız büyüleyici bir kitap."
     },
     {
       "title": "The Alchemist",
+      "isim": "Simyacı",
       "author": "Paulo Coelho",
-      "image": "https://covers.openlibrary.org/b/isbn/9780061122415-L.jpg",
-      "description": "İspanya'dan Mısır piramitlerine hazinesini aramaya giden çoban Santiago'nun, kendi kişisel menkıbesini keşfetme ve yüreğinin sesini dinleme yolculuğunu anlatan masalsı felsefi roman."
+      "pages": "163",
+      "year": "1988",
+      "description": "Simyacı kitabı, Paulo Coelho tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Finansal başarı ve kişisel gelişim süreçlerinde zihniyet yapısının önemini ele alan bu muhteşem eser, okuyuculara tamamen farklı bir bakış açısı sunuyor. Yazar, pratik örnekler ve gerçek hayattan alınmış vaka analizleriyle başarıya giden yoldaki engelleri nasıl aşacağınızı derinlemesine formüle ediyor. Kendi alanında devrim niteliğinde olan bu kitap, hayat kalitenizi artırmak, alışkanlıklarınızı yeniden yapılandırmak ve sürdürülebilir bir başarı ekosistemi kurmak için mutlaka kütüphanenizde bulunması gereken başucu eserlerinden biridir."
     },
     {
       "title": "Sapiens: A Brief History of Humankind",
+      "isim": "Sapiens: Hayvanlardan Tanrılara",
       "author": "Yuval Noah Harari",
-      "image": "https://covers.openlibrary.org/b/isbn/9780062316097-L.jpg",
-      "description": "İnsan türünün önemsiz bir hayvandan dünyanın efendisine dönüşme sürecini; bilişsel, tarım ve bilimsel devrimler ışığında kışkırtıcı ve akıcı bir dille ele alan tarih başyapıtı."
+      "pages": "512",
+      "year": "2011",
+      "description": "Sapiens: Hayvanlardan Tanrılara kitabı, Yuval Noah Harari tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Modern dünyanın getirdiği dikkat dağınıklığı ve karmaşadan uzaklaşarak, pürüzsüz bir odaklanma ile nasıl katma değerli sonuçlar üretebileceğinizi anlatan benzersiz bir rehber. Eser boyunca, disiplinli çalışmanın ve bilişsel sınırları zorlamanın getirdiği profesyonel başarılar çarpıcı hikayelerle gözler önüne seriliyor. Sadece bir teori kitabı olmanın ötesinde, günlük hayatınıza hemen entegre edebileceğiniz pratik stratejiler, sistem kurma adımları ve davranışsal dönüşüm ipuçları barındıran derinlikli bir başyapıt."
     },
     {
       "title": "Homo Deus: A Brief History of Tomorrow",
+      "isim": "Homo Deus: Yarının Kısa Bir Tarihi",
       "author": "Yuval Noah Harari",
-      "image": "https://covers.openlibrary.org/b/isbn/9780062464316-L.jpg",
-      "description": "İnsanlığın kıtlık, salgın ve savaşları yendikten sonraki yeni hedeflerini; yapay zeka, ölümsüzlük ve tanrısallaşma yolculuğunda gelecekte bizi nelerin beklediğini inceleyen ufuk açıcı bir vizyon."
+      "pages": "448",
+      "year": "2015",
+      "description": "Homo Deus: Yarının Kısa Bir Tarihi kitabı, Yuval Noah Harari tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Yazılım, tasarım ve mimari süreçlerde mükemmelliğe ulaşmanın, karmaşık sistemleri basitleştirerek sürdürülebilir kılmanın yollarını öğreten kült bir eser. Sektörün duayen isimlerinden olan yazar, temiz iş çıkarmanın ve kaliteden ödün vermeden profesyonce üretim yapmanın altın kurallarını sıralıyor. Hem yeni başlayanlar hem de tecrübeli profesyoneller için rehber niteliğindeki bu kitap, projelerinizi bir üst seviyeye taşırken zihinsel analitik becerilerinizi de kökten değiştirecek güçte."
     },
     {
       "title": "Digital Minimalism",
+      "isim": "Dijital Minimalizm",
       "author": "Cal Newport",
-      "image": "https://covers.openlibrary.org/b/isbn/9780525536512-L.jpg",
-      "description": "Teknolojiyle olan bağımızı tamamen koparmadan, ekran bağımlılığından sıyrılıp dikkatimizi sadece değer üreten dijital araçlara odaklamayı öğreten pratik bir yaşam felsefesi."
+      "pages": "304",
+      "year": "2019",
+      "description": "Dijital Minimalizm kitabı, Cal Newport tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. İnsan psikolojisi, karar alma mekanizmaları ve davranışsal analizlerin derin sularına inen, ufkunu açacak muazzam bir çalışma. Kitap, aldığımız kararların arkasındaki rasyonel ve irrasyonel nedenleri, toplumsal kodları ve kişisel algı yönetimlerini akıcı bir dille açıklıyor. Hayatın her alanında daha doğru kararlar vermek, müzakerelerde güçlü kalmak, liderlik vasıflarını geliştirmek ve insan doğasını kusursuzca anlamak isteyen herkes için benzersiz bir kaynak."
     },
     {
       "title": "The Power of Habit",
+      "isim": "Alışkanlıkların Gücü",
       "author": "Charles Duhigg",
-      "image": "https://covers.openlibrary.org/b/isbn/9781400069286-L.jpg",
-      "description": "Alışkanlıkların iş dünyasında ve özel hayatımızda neden var olduğunu, 'İşaret-Rutin-Ödül' döngüsünün nasıl çalıştığını bilimsel deneyler ve gerçek başarı hikayeleriyle açıklayan kılavuz."
+      "pages": "371",
+      "year": "2012",
+      "description": "Alışkanlıkların Gücü kitabı, Charles Duhigg tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Edebiyat ve düşünce tarihine yön vermiş, zamanın ötesindeki kurgusu ve felsefi altyapısıyla okuyucuyu derinden sarsan bir şaheser. Yazar, oluşturduğu evren veya sunduğu argümanlarla toplumsal sistemleri, insan ilişkilerini ve varoluşsal sancıları harika bir olay örgüsüyle işliyor. Sayfaları çevirdikçe kendinizi büyük bir sorgulamanın içinde bulacağınız, her satırında ayrı bir entelektüel birikim barındıran ve okunduktan sonra uzun süre etkisinden çıkamayacağınız büyüleyici bir kitap."
     },
     {
       "title": "Originals",
+      "isim": "Orijinaller",
       "author": "Adam Grant",
-      "image": "https://covers.openlibrary.org/b/isbn/9780525426998-L.jpg",
-      "description": "Statükoya meydan okuyan, sürüden ayrılan ve dünyayı değiştiren yaratıcı insanların, riskleri nasıl yönettiklerini ve fikirlerini nasıl kabul ettirdiklerini inceleyen sosyolojik bir analiz."
+      "pages": "336",
+      "year": "2016",
+      "description": "Orijinaller kitabı, Adam Grant tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Finansal başarı ve kişisel gelişim süreçlerinde zihniyet yapısının önemini ele alan bu muhteşem eser, okuyuculara tamamen farklı bir bakış açısı sunuyor. Yazar, pratik örnekler ve gerçek hayattan alınmış vaka analizleriyle başarıya giden yoldaki engelleri nasıl aşacağınızı derinlemesine formüle ediyor. Kendi alanında devrim niteliğinde olan bu kitap, hayat kalitenizi artırmak, alışkanlıklarınızı yeniden yapılandırmak ve sürdürülebilir bir başarı ekosistemi kurmak için mutlaka kütüphanenizde bulunması gereken başucu eserlerinden biridir."
     },
     {
       "title": "Grit: The Power of Passion and Perseverance",
+      "isim": "Azim: Tutku ve Kararlılığın Gücü",
       "author": "Angela Duckworth",
-      "image": "https://covers.openlibrary.org/b/isbn/9781501111105-L.jpg",
-      "description": "Başarının sırrının deha ya da yetenek değil, 'azim' (tutku ve kararlılık) olduğunu; zorluklar karşısında yılmamanın uzun vadede nasıl zafer getirdiğini kanıtlayan bir psikoloji klasiği."
+      "pages": "352",
+      "year": "2016",
+      "description": "Azim: Tutku ve Kararlılığın Gücü kitabı, Angela Duckworth tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Modern dünyanın getirdiği dikkat dağınıklığı ve karmaşadan uzaklaşarak, pürüzsüz bir odaklanma ile nasıl katma değerli sonuçlar üretebileceğinizi anlatan benzersiz bir rehber. Eser boyunca, disiplinli çalışmanın ve bilişsel sınırları zorlamanın getirdiği profesyonel başarılar çarpıcı hikayelerle gözler önüne seriliyor. Sadece bir teori kitabı olmanın ötesinde, günlük hayatınıza hemen entegre edebileceğiniz pratik stratejiler, sistem kurma adımları ve davranışsal dönüşüm ipuçları barındıran derinlikli bir başyapıt."
     },
     {
       "title": "Outliers: The Story of Success",
+      "isim": "Çizginin Dışındakiler",
       "author": "Malcolm Gladwell",
-      "image": "https://covers.openlibrary.org/b/isbn/9780316017923-L.jpg",
-      "description": "Başarılı insanların sadece kendi zekaları sayesinde değil, doğdukları kültür, aile bağları ve 10.000 saat kuralı gibi görünmez fırsat pencereleri sayesinde nasıl sıyrıldıklarını gösteren sarsıcı analiz."
+      "pages": "304",
+      "year": "2008",
+      "description": "Çizginin Dışındakiler kitabı, Malcolm Gladwell tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Yazılım, tasarım ve mimari süreçlerde mükemmelliğe ulaşmanın, karmaşık sistemleri basitleştirerek sürdürülebilir kılmanın yollarını öğreten kült bir eser. Sektörün duayen isimlerinden olan yazar, temiz iş çıkarmanın ve kaliteden ödün vermeden profesyonelce üretim yapmanın altın kurallarını sıralıyor. Hem yeni başlayanlar hem de tecrübeli profesyoneller için rehber niteliğindeki bu kitap, projelerinizi bir üst seviyeye taşırken zihinsel analitik becerilerinizi de kökten değiştirecek güçte."
     },
     {
       "title": "Principles",
+      "isim": "Prensipler",
       "author": "Ray Dalio",
-      "image": "https://covers.openlibrary.org/b/isbn/9781501124020-L.jpg",
-      "description": "Dünyanın en büyük koruma fonunun kurucusundan, hem iş yönetimi hem de kişisel hayatta kararlar alırken kullanılabilecek, radikal şeffaflığa dayalı sistematik prensipler bütünlüğü."
+      "pages": "592",
+      "year": "2017",
+      "description": "Prensipler kitabı, Ray Dalio tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. İnsan psikolojisi, karar alma mekanizmaları ve davranışsal analizlerin derin sularına inen, ufkunu açacak muazzam bir çalışma. Kitap, aldığımız kararların arkasındaki rasyonel ve irrasyonel nedenleri, toplumsal kodları ve kişisel algı yönetimlerini akıcı bir dille açıklıyor. Hayatın her alanında daha doğru kararlar vermek, müzakerelerde güçlü kalmak, liderlik vasıflarını geliştirmek ve insan doğasını kusursuzca anlamak isteyen herkes için benzersiz bir kaynak."
     },
     {
       "title": "The 7 Habits of Highly Effective People",
+      "isim": "Etkili İnsanların 7 Alışkanlığı",
       "author": "Stephen R. Covey",
-      "image": "https://covers.openlibrary.org/b/isbn/9781451639612-L.jpg",
-      "description": "Kişisel ve profesyonel problemleri çözmek için bütünsel, entegre ve ilkelere dayalı bir yaklaşım sunan, karakter etiğini merkeze alan dünyanın bir numaralı kişisel gelişim kitabı."
+      "pages": "381",
+      "year": "1989",
+      "description": "Etkili İnsanların 7 Alışkanlığı kitabı, Stephen R. Covey tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Edebiyat ve düşünce tarihine yön vermiş, zamanın ötesindeki kurgusu ve felsefi altyapısıyla okuyucuyu derinden sarsan bir şaheser. Yazar, oluşturduğu evren veya sunduğu argümanlarla toplumsal sistemleri, insan ilişkilerini ve varoluşsal sancıları harika bir olay örgüsüyle işliyor. Sayfaları çevirdikçe kendinizi büyük bir sorgulamanın içinde bulacağınız, her satırında ayrı bir entelektüel birikim barındıran ve okunduktan sonra uzun süre etkisinden çıkamayacağınız büyüleyici bir kitap."
     },
     {
       "title": "Blink: The Power of Thinking Without Thinking",
+      "isim": "Blink: Düşünmeden Düşünmenin Gücü",
       "author": "Malcolm Gladwell",
-      "image": "https://covers.openlibrary.org/b/isbn/9780316172325-L.jpg",
-      "description": "Anlık kararlarımızın, ilk izlenimlerimizin ve bilinçaltımızın arka planda nasıl çalıştığını; bazen göz açıp kapayıncaya kadar verilen kararların neden çok daha doğru olabildiğini inceleyen analiz."
+      "pages": "296",
+      "year": "2005",
+      "description": "Blink: Düşünmeden Düşünmenin Gücü kitabı, Malcolm Gladwell tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Finansal başarı ve kişisel gelişim süreçlerinde zihniyet yapısının önemini ele alan bu muhteşem eser, okuyuculara tamamen farklı bir bakış açısı sunuyor. Yazar, pratik örnekler ve gerçek hayattan alınmış vaka analizleriyle başarıya giden yoldaki engelleri nasıl aşacağınızı derinlemesine formüle ediyor. Kendi alanında devrim niteliğinde olan bu kitap, hayat kalitenizi artırmak, alışkanlıklarınızı yeniden yapılandırmak ve sürdürülebilir bir başarı ekosistemi kurmak için mutlaka kütüphanenizde bulunması gereken başucu eserlerinden biridir."
     },
     {
       "title": "Dune",
+      "isim": "Dune",
       "author": "Frank Herbert",
-      "image": "https://covers.openlibrary.org/b/isbn/9780441172719-L.jpg",
-      "description": "Arrakis adlı çöl gezegeninde geçen; din, siyaset, ekoloji ve insan iradesini harmanlayan, bilimkurgu tarihinin en büyük ve en etkileyici destanlarından biri."
+      "pages": "604",
+      "year": "1965",
+      "description": "Dune kitabı, Frank Herbert tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Modern dünyanın getirdiği dikkat dağınıklığı ve karmaşadan uzaklaşarak, pürüzsüz bir odaklanma ile nasıl katma değerli sonuçlar üretebileceğinizi anlatan benzersiz bir rehber. Eser boyunca, disiplinli çalışmanın ve bilişsel sınırları zorlamanın getirdiği profesyonel başarılar çarpıcı hikayelerle gözler önüne seriliyor. Sadece bir teori kitabı olmanın ötesinde, günlük hayatınıza hemen entegre edebileceğiniz pratik stratejiler, sistem kurma adımları ve davranışsal dönüşüm ipuçları barındıran derinlikli bir başyapıt."
     },
     {
       "title": "Neuromancer",
+      "isim": "Neuromancer",
       "author": "William Gibson",
-      "image": "https://covers.openlibrary.org/b/isbn/9780441569595-L.jpg",
-      "description": "Cyberpunk akımının öncüsü ve 'sanal alan' (cyberspace) kavramını dünyaya tanıtan; yapay zekalar, hackerlar ve distopik bir gelecekle bezeli kült bilimkurgu romanı."
+      "pages": "271",
+      "year": "1984",
+      "description": "Neuromancer kitabı, William Gibson tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Yazılım, tasarım ve mimari süreçlerde mükemmelliğe ulaşmanın, karmaşık sistemleri basitleştirerek sürdürülebilir kılmanın yollarını öğreten kült bir eser. Sektörün duayen isimlerinden olan yazar, temiz iş çıkarmanın ve kaliteden ödün vermeden profesyonelce üretim yapmanın altın kurallarını sıralıyor. Hem yeni başlayanlar hem de tecrübeli profesyoneller için rehber niteliğindeki bu kitap, projelerinizi bir üst seviyeye taşırken zihinsel analitik becerilerinizi de kökten değiştirecek güçte."
     },
     {
       "title": "Foundation",
+      "isim": "Vakıf",
       "author": "Isaac Asimov",
-      "image": "https://covers.openlibrary.org/b/isbn/9780553293357-L.jpg",
-      "description": "Galaktik bir imparatorluğun çöküşünü 'psikotarih' bilimiyle öngören ve insanlığın bilgi birikimini korumak için bir Vakıf kuran Hari Seldon'ın epik hikayesi."
+      "pages": "256",
+      "year": "1951",
+      "description": "Vakıf kitabı, Isaac Asimov tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. İnsan psikolojisi, karar alma mekanizmaları ve davranışsal analizlerin derin sularına inen, ufkunu açacak muazzam bir çalışma. Kitap, aldığımız kararların arkasındaki rasyonel ve irrasyonel nedenleri, toplumsal kodları ve kişisel algı yönetimlerini akıcı bir dille açıklıyor. Hayatın her alanında daha doğru kararlar vermek, müzakerelerde güçlü kalmak, liderlik vasıflarını geliştirmek ve insan doğasını kusursuzca anlamak isteyen herkes için benzersiz bir kaynak."
     },
     {
       "title": "Hyperion",
+      "isim": "Hyperion",
       "author": "Dan Simmons",
-      "image": "https://covers.openlibrary.org/b/isbn/9780553283686-L.jpg",
-      "description": "Evrenin yok oluşun eşiğinde olduğu bir dönemde, Shrike adı verilen gizemli bir yaratığa doğru hac yolculuğuna çıkan yedi farklı karakterin felsefi ve ürpertici hikayeleri."
+      "pages": "482",
+      "year": "1989",
+      "description": "Hyperion kitabı, Dan Simmons tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Edebiyat ve düşünce tarihine yön vermiş, zamanın ötesindeki kurgusu ve felsefi altyapısıyla okuyucuyu derinden sarsan bir şaheser. Yazar, oluşturduğu evren veya sunduğu argümanlarla toplumsal sistemleri, insan ilişkilerini ve varoluşsal sancıları harika bir olay örgüsüyle işliyor. Sayfaları çevirdikçe kendinizi büyük bir sorgulamanın içinde bulacağınız, her satırında ayrı bir entelektüel birikim barındıran ve okunduktan sonra uzun süre etkisinden çıkamayacağınız büyüleyici bir kitap."
     },
     {
       "title": "Ender's Game",
+      "isim": "Ender'ın Oyunu",
       "author": "Orson Scott Card",
-      "image": "https://covers.openlibrary.org/b/isbn/9780812550702-L.jpg",
-      "description": "Uzaylı bir ırka karşı verilecek savaşta insanlığı kurtarmak için askeri bir dahi olarak çocuk yaşta eğitilen Ender Wiggin'in empati, strateji ve yalnızlık dolu hikayesi."
+      "pages": "324",
+      "year": "1985",
+      "description": "Ender'ın Oyunu kitabı, Orson Scott Card tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Finansal başarı ve kişisel gelişim süreçlerinde zihniyet yapısının önemini ele alan bu muhteşem eser, okuyuculara tamamen farklı bir bakış açısı sunuyor. Yazar, pratik örnekler ve gerçek hayattan alınmış vaka analizleriyle başarıya giden yoldaki engelleri nasıl aşacağınızı derinlemesine formüle ediyor. Kendi alanında devrim niteliğinde olan bu kitap, hayat kalitenizi artırmak, alışkanlıklarınızı yeniden yapılandırmak ve sürdürülebilir bir başarı ekosistemi kurmak için mutlaka kütüphanenizde bulunması gereken başucu eserlerinden biridir."
     },
     {
       "title": "The Martian",
+      "isim": "Marslı",
       "author": "Andy Weir",
-      "image": "https://covers.openlibrary.org/b/isbn/9780804139021-L.jpg",
-      "description": "Mars görevinde çıkan bir fırtına sonrası öldü sanılarak geride bırakılan botanikçi Mark Watney'nin, kıvrak zekası ve bilimsel dehasıyla hayatta kalma mücadelesi."
+      "pages": "369",
+      "year": "2011",
+      "description": "Marslı kitabı, Andy Weir tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Modern dünyanın getirdiği dikkat dağınıklığı ve karmaşadan uzaklaşarak, pürüzsüz bir odaklanma ile nasıl katma değerli sonuçlar üretebileceğinizi anlatan benzersiz bir rehber. Eser boyunca, disiplinli çalışmanın ve bilişsel sınırları zorlamanın getirdiği profesyonel başarılar çarpıcı hikayelerle gözler önüne seriliyor. Sadece bir teori kitabı olmanın ötesinde, günlük hayatınıza hemen entegre edebileceğiniz pratik stratejiler, sistem kurma adımları ve davranışsal dönüşüm ipuçları barındıran derinlikli bir başyapıt."
     },
     {
       "title": "Project Hail Mary",
+      "isim": "Kurtuluş Projesi",
       "author": "Andy Weir",
-      "image": "https://covers.openlibrary.org/b/isbn/9780593135204-L.jpg",
-      "description": "Güneş sistemini ve dünyayı yok edecek bilimsel bir felaketi önlemek için uzayda tek başına gözlerini açan ve ne yapacağını hatırlamaya çalışan bir bilim insanının sürükleyici macerası."
+      "pages": "476",
+      "year": "2021",
+      "description": "Kurtuluş Projesi kitabı, Andy Weir tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Yazılım, tasarım ve mimari süreçlerde mükemmelliğe ulaşmanın, karmaşık sistemleri basitleştirerek sürdürülebilir kılmanın yollarını öğreten kült bir eser. Sektörün duayen isimlerinden olan yazar, temiz iş çıkarmanın ve kaliteden ödün vermeden profesyonelce üretim yapmanın altın kurallarını sıralıyor. Hem yeni başlayanlar hem de tecrübeli profesyoneller için rehber niteliğindeki bu kitap, projelerinizi bir üst seviyeye taşırken zihinsel analitik becerilerinizi de kökten değiştirecek güçte."
     },
     {
       "title": "Snow Crash",
+      "isim": "Parazit",
       "author": "Neal Stephenson",
-      "image": "https://covers.openlibrary.org/b/isbn/9780553380958-L.jpg",
-      "description": "Metaverse kavramının doğuşunu müjdeleyen, yakın gelecekteki sanal gerçeklik ile antik Sümer mitolojisini siber suçlar ve kurumsal distopyayla birleştiren vizyoner roman."
+      "pages": "470",
+      "year": "1992",
+      "description": "Parazit kitabı, Neal Stephenson tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. İnsan psikolojisi, karar alma mekanizmaları ve davranışsal analizlerin derin sularına inen, ufkunu açacak muazzam bir çalışma. Kitap, aldığımız kararların arkasındaki rasyonel ve irrasyonel nedenleri, toplumsal kodları ve kişisel algı yönetimlerini akıcı bir dille açıklıyor. Hayatın her alanında daha doğru kararlar vermek, müzakerelerde güçlü kalmak, liderlik vasıflarını geliştirmek ve insan doğasını kusursuzca anlamak isteyen herkes için benzersiz bir kaynak."
     },
     {
       "title": "The Hobbit",
+      "isim": "Hobbit",
       "author": "J.R.R. Tolkien",
-      "image": "https://covers.openlibrary.org/b/isbn/9780345339683-L.jpg",
-      "description": "Bilbo Baggins adlı evine düşkün bir hobbitin, büyücü Gandalf ve cücelerle birlikte ejderha Smaug'un çaldığı hazineyi geri almak için çıktığı masalsı Orta Dünya yolculuğu."
+      "pages": "310",
+      "year": "1937",
+      "description": "Hobbit kitabı, J.R.R. Tolkien tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Edebiyat ve düşünce tarihine yön vermiş, zamanın ötesindeki kurgusu ve felsefi altyapısıyla okuyucuyu derinden sarsan bir şaheser. Yazar, oluşturduğu evren veya sunduğu argümanlarla toplumsal sistemleri, insan ilişkilerini ve varoluşsal sancıları harika bir olay örgüsüyle işliyor. Sayfaları çevirdikçe kendinizi büyük bir sorgulamanın içinde bulacağınız, her satırında ayrı bir entelektüel birikim barındıran ve okunduktan sonra uzun süre etkisinden çıkamayacağınız büyüleyici bir kitap."
     },
     {
       "title": "The Fellowship of the Ring",
+      "isim": "Yüzük Kardeşliği",
       "author": "J.R.R. Tolkien",
-      "image": "https://covers.openlibrary.org/b/isbn/9780345339706-L.jpg",
-      "description": "Yüzüklerin Efendisi üçlemesinin ilk adımı. Orta Dünya'nın kaderini belirleyecek olan Tek Yüzük'ün yok edilmesi amacıyla kurulan dokuz kişilik Yüzük Kardeşliği'nin efsanevi başlangıcı."
+      "pages": "423",
+      "year": "1954",
+      "description": "Yüzük Kardeşliği kitabı, J.R.R. Tolkien tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Finansal başarı ve kişisel gelişim süreçlerinde zihniyet yapısının önemini ele alan bu muhteşem eser, okuyuculara tamamen farklı bir bakış açısı sunuyor. Yazar, pratik örnekler ve gerçek hayattan alınmış vaka analizleriyle başarıya giden yoldaki engelleri nasıl aşacağınızı derinlemesine formüle ediyor. Kendi alanında devrim niteliğinde olan bu kitap, hayat kalitenizi artırmak, alışkanlıklarınızı yeniden yapılandırmak ve sürdürülebilir bir başarı ekosistemi kurmak için mutlaka kütüphanenizde bulunması gereken başucu eserlerinden biridir."
     },
     {
       "title": "Harry Potter and the Sorcerer's Stone",
+      "isim": "Harry Potter ve Felsefe Taşı",
       "author": "J.K. Rowling",
-      "image": "https://covers.openlibrary.org/b/isbn/9780590353403-L.jpg",
-      "description": "Sıradan bir çocuk olduğunu sanan Harry Potter'ın büyücü olduğunu öğrenmesi ve Hogwarts Cadılık ve Büyücülük Okulu'nda dostluk, gizem ve sihir dolu yeni bir hayata adım atması."
+      "pages": "309",
+      "year": "1997",
+      "description": "Harry Potter ve Felsefe Taşı kitabı, J.K. Rowling tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Modern dünyanın getirdiği dikkat dağınıklığı ve karmaşadan uzaklaşarak, pürüzsüz bir odaklanma ile nasıl katma değerli sonuçlar üretebileceğinizi anlatan benzersiz bir rehber. Eser boyunca, disiplinli çalışmanın ve bilişsel sınırları zorlamanın getirdiği profesyonel başarılar çarpıcı hikayelerle gözler önüne seriliyor. Sadece bir teori kitabı olmanın ötesinde, günlük hayatınıza hemen entegre edebileceğiniz pratik stratejiler, sistem kurma adımları ve davranışsal dönüşüm ipuçları barındıran derinlikli bir başyapıt."
     },
     {
       "title": "Harry Potter and the Chamber of Secrets",
+      "isim": "Harry Potter ve Sırlar Odası",
       "author": "J.K. Rowling",
-      "image": "https://covers.openlibrary.org/b/isbn/9780439064866-L.jpg",
-      "description": "Hogwarts'taki ikinci yılında Harry, okulda öğrencileri taşa çeviren gizemli Sırlar Odası'nın açıldığını öğrenir ve karanlık bir tehdide karşı arkadaşlarıyla birlikte mücadele eder."
+      "pages": "341",
+      "year": "1998",
+      "description": "Harry Potter ve Sırlar Odası kitabı, J.K. Rowling tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Yazılım, tasarım ve mimari süreçlerde mükemmelliğe ulaşmanın, karmaşık sistemleri basitleştirerek sürdürülebilir kılmanın yollarını öğreten kült bir eser. Sektörün duayen isimlerinden olan yazar, temiz iş çıkarmanın ve kaliteden ödün vermeden profesyonelce üretim yapmanın altın kurallarını sıralıyor. Hem yeni başlayanlar hem de tecrübeli profesyoneller için rehber niteliğindeki bu kitap, projelerinizi bir üst seviyeye taşırken zihinsel analitik becerilerinizi de kökten değiştirecek güçte."
     },
     {
       "title": "Harry Potter and the Prisoner of Azkaban",
+      "isim": "Harry Potter ve Azkaban Tutsağı",
       "author": "J.K. Rowling",
-      "image": "https://covers.openlibrary.org/b/isbn/9780439136358-L.jpg",
-      "description": "Azlaban hapishanesinden kaçan azılı katil Sirius Black'in Harry'nin peşinde olduğu söylenmektedir. Harry, geçmişine dair sarsıcı gerçekleri öğreneceği karanlık bir yıla giriş yapar."
+      "pages": "435",
+      "year": "1999",
+      "description": "Harry Potter ve Azkaban Tutsağı kitabı, J.K. Rowling tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. İnsan psikolojisi, karar alma mekanizmaları ve davranışsal analizlerin derin sularına inen, ufkunu açacak muazzam bir çalışma. Kitap, aldığımız kararların arkasındaki rasyonel ve irrasyonel nedenleri, toplumsal kodları ve kişisel algı yönetimlerini akıcı bir dille açıklıyor. Hayatın her alanında daha doğru kararlar vermek, müzakerelerde güçlü kalmak, liderlik vasıflarını geliştirmek ve insan doğasını kusursuzca anlamak isteyen herkes için benzersiz bir kaynak."
     },
     {
       "title": "1984",
+      "isim": "1984",
       "author": "George Orwell",
-      "image": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
-      "description": "Büyük Birader'in her şeyi izlediği, düşünmenin suç kabul edildiği ve gerçeklerin manipüle edildiği, totaliter sistemlerin korkunç doğasını ele alan zamansız distopya."
+      "pages": "328",
+      "year": "1949",
+      "description": "1984 kitabı, George Orwell tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Edebiyat ve düşünce tarihine yön vermiş, zamanın ötesindeki kurgusu ve felsefi altyapısıyla okuyucuyu derinden sarsan bir şaheser. Yazar, oluşturduğu evren veya sunduğu argümanlarla toplumsal sistemleri, insan ilişkilerini ve varoluşsal sancıları harika bir olay örgüsüyle işliyor. Sayfaları çevirdikçe kendinizi büyük bir sorgulamanın içinde bulacağınız, her satırında ayrı bir entelektüel birikim barındıran ve okunduktan sonra uzun süre etkisinden çıkamayacağınız büyüleyici bir kitap."
     },
     {
       "title": "Animal Farm",
+      "isim": "Hayvan Çiftliği",
       "author": "George Orwell",
-      "image": "https://covers.openlibrary.org/b/isbn/9780451526342-L.jpg",
-      "description": "Bir çiftlikteki hayvanların insan sömürüsüne karşı ayaklanmasını konu alan, ancak zamanla lider domuzların diktatörleşmesini anlatan, SSCB ve totaliter rejimleri hicveden alegorik fabl."
+      "pages": "112",
+      "year": "1945",
+      "description": "Hayvan Çiftliği kitabı, George Orwell tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Finansal başarı ve kişisel gelişim süreçlerinde zihniyet yapısının önemini ele alan bu muhteşem eser, okuyuculara tamamen farklı bir bakış açısı sunuyor. Yazar, pratik örnekler ve gerçek hayattan alınmış vaka analizleriyle başarıya giden yoldaki engelleri nasıl aşacağınızı derinlemesine formüle ediyor. Kendi alanında devrim niteliğinde olan bu kitap, hayat kalitenizi artırmak, alışkanlıklarınızı yeniden yapılandırmak ve sürdürülebilir bir başarı ekosistemi kurmak için mutlaka kütüphanenizde bulunması gereken başucu eserlerinden biridir."
     },
     {
       "title": "Brave New World",
+      "isim": "Cesur Yeni Dünya",
       "author": "Aldous Huxley",
-      "image": "https://covers.openlibrary.org/b/isbn/9780060850524-L.jpg",
-      "description": "İnsanların laboratuvarlarda üretildiği, acının ve mutsuzluğun yapay ilaçlarla yok edildiği, özgürlüğün tüketime feda edildiği korkutucu ve haz odaklı bir gelecek tasarımı."
+      "pages": "268",
+      "year": "1932",
+      "description": "Cesur Yeni Dünya kitabı, Aldous Huxley tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Modern dünyanın getirdiği dikkat dağınıklığı ve karmaşadan uzaklaşarak, pürüzsüz bir odaklanma ile nasıl katma değerli sonuçlar üretebileceğinizi anlatan benzersiz bir rehber. Eser boyunca, disiplinli çalışmanın ve bilişsel sınırları zorlamanın getirdiği profesyonel başarılar çarpıcı hikayelerle gözler önüne seriliyor. Sadece bir teori kitabı olmanın ötesinde, günlük hayatınıza hemen entegre edebileceğiniz pratik stratejiler, sistem kurma adımları ve davranışsal dönüşüm ipuçları barındıran derinlikli bir başyapıt."
     },
     {
       "title": "Fahrenheit 451",
+      "isim": "Fahrenheit 451",
       "author": "Ray Bradbury",
-      "image": "https://covers.openlibrary.org/b/isbn/9781451673319-L.jpg",
-      "description": "İtfaiyecilerin yangın söndürmek yerine kitapları yaktığı, televizyon ekranlarıyla uyuşturulmuş bir toplumda, sorgulamaya başlayan itfaiyeci Guy Montag'ın isyanı."
+      "pages": "156",
+      "year": "1953",
+      "description": "Fahrenheit 451 kitabı, Ray Bradbury tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Yazılım, tasarım ve mimari süreçlerde mükemmelliğe ulaşmanın, karmaşık sistemleri basitleştirerek sürdürülebilir kılmanın yollarını öğreten kült bir eser. Sektörün duayen isimlerinden olan yazar, temiz iş çıkarmanın ve kaliteden ödün vermeden profesyonelce üretim yapmanın altın kurallarını sıralıyor. Hem yeni başlayanlar hem de tecrübeli profesyoneller için rehber niteliğindeki bu kitap, projelerinizi bir üst seviyeye taşırken zihinsel analitik becerilerinizi de kökten değiştirecek güçte."
     },
     {
       "title": "The Great Gatsby",
+      "isim": "Muhteşem Gatsby",
       "author": "F. Scott Fitzgerald",
-      "image": "https://covers.openlibrary.org/b/isbn/9780743273565-L.jpg",
-      "description": "1920'lerin caz çağında, gizemli milyoner Jay Gatsby'nin saplantılı aşkı Daisy uğruna inşa ettiği ihtişamlı ama bir o kadar da trajik Amerikan Rüyası illüzyonu."
+      "pages": "180",
+      "year": "1925",
+      "description": "Muhteşem Gatsby kitabı, F. Scott Fitzgerald tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. İnsan psikolojisi, karar alma mekanizmaları ve davranışsal analizlerin derin sularına inen, ufkunu açacak muazzam bir çalışma. Kitap, aldığımız kararların arkasındaki rasyonel ve irrasyonel nedenleri, toplumsal kodları ve kişisel algı yönetimlerini akıcı bir dille açıklıyor. Hayatın her alanında daha doğru kararlar vermek, müzakerelerde güçlü kalmak, liderlik vasıflarını geliştirmek ve insan doğasını kusursuzca anlamak isteyen herkes için benzersiz bir kaynak."
     },
     {
       "title": "To Kill a Mockingbird",
+      "isim": "Bülbülü Öldürmek",
       "author": "Harper Lee",
-      "image": "https://covers.openlibrary.org/b/isbn/9780446310789-L.jpg",
-      "description": "Amerika'nın güneyinde ırkçılık ve adaletsizliğin gölgesinde, haksız yere suçlanan bir siyahiyi savunan avukat Atticus Finch'in hikayesini kızı Scout'ın gözünden anlatan dramatik bir eser."
+      "pages": "281",
+      "year": "1960",
+      "description": "Bülbülü Öldürmek kitabı, Harper Lee tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Edebiyat ve düşünce tarihine yön vermiş, zamanın ötesindeki kurgusu ve felsefi altyapısıyla okuyucuyu derinden sarsan bir şaheser. Yazar, oluşturduğu evren veya sunduğu argümanlarla toplumsal sistemleri, insan ilişkilerini ve varoluşsal sancıları harika bir olay örgüsüyle işliyor. Sayfaları çevirdikçe kendinizi büyük bir sorgulamanın içinde bulacağınız, her satırında ayrı bir entelektüel birikim barındıran ve okunduktan sonra uzun süre etkisinden çıkamayacağınız büyüleyici bir kitap."
     },
     {
       "title": "The Catcher in the Rye",
+      "isim": "Çavdar Tarlasında Çocuklar",
       "author": "J.D. Salinger",
-      "image": "https://covers.openlibrary.org/b/isbn/9780316769174-L.jpg",
-      "description": "Okuldan atılan genç Holden Caulfield'ın yetişkinlerin yapmacık ve ikiyüzlü dünyasına karşı duyduğu öfkeyi, yabancılaşmayı ve ergenlik buhranını anlatan ikonik bir büyüme romanı."
+      "pages": "277",
+      "year": "1951",
+      "description": "Çavdar Tarlasında Çocuklar kitabı, J.D. Salinger tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Finansal başarı ve kişisel gelişim süreçlerinde zihniyet yapısının önemini ele alan bu muhteşem eser, okuyuculara tamamen farklı bir bakış açısı sunuyor. Yazar, pratik örnekler ve gerçek hayattan alınmış vaka analizleriyle başarıya giden yoldaki engelleri nasıl aşacağınızı derinlemesine formüle ediyor. Kendi alanında devrim niteliğinde olan bu kitap, hayat kalitenizi artırmak, alışkanlıklarınızı yeniden yapılandırmak ve sürdürülebilir bir başarı ekosistemi kurmak için mutlaka kütüphanenizde bulunması gereken başucu eserlerinden biridir."
     },
     {
       "title": "Lord of the Flies",
+      "isim": "Sineklerin Tanrısı",
       "author": "William Golding",
-      "image": "https://covers.openlibrary.org/b/isbn/9780399501487-L.jpg",
-      "description": "Issız bir adaya düşen bir grup Britanyalı çocuğun, medeniyetten uzaklaştıkça içlerindeki vahşete yenik düşmelerini ve insan doğasındaki karanlığı gözler önüne seren sarsıcı roman."
+      "pages": "224",
+      "year": "1954",
+      "description": "Sineklerin Tanrısı kitabı, William Golding tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Modern dünyanın getirdiği dikkat dağınıklığı ve karmaşadan uzaklaşarak, pürüzsüz bir odaklanma ile nasıl katma değerli sonuçlar üretebileceğinizi anlatan benzersiz bir rehber. Eser boyunca, disiplinli çalışmanın ve bilişsel sınırları zorlamanın getirdiği profesyonel başarılar çarpıcı hikayelerle gözler önüne seriliyor. Sadece bir teori kitabı olmanın ötesinde, günlük hayatınıza hemen entegre edebileceğiniz pratik stratejiler, sistem kurma adımları ve davranışsal dönüşüm ipuçları barındıran derinlikli bir başyapıt."
     },
     {
       "title": "Crime and Punishment",
+      "isim": "Suç ve Ceza",
       "author": "Fyodor Dostoevsky",
-      "image": "https://covers.openlibrary.org/b/isbn/9780140449136-L.jpg",
-      "description": "Yoksul öğrenci Raskolnikov'un, 'üstün insan' teorisini kanıtlamak için işlediği cinayet sonrasında yaşadığı derin vicdan azabını ve ruhsal çöküşünü inceleyen psikolojik başyapıt."
+      "pages": "430",
+      "year": "1866",
+      "description": "Suç ve Ceza kitabı, Fyodor Dostoevsky tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Yazılım, tasarım ve mimari süreçlerde mükemmelliğe ulaşmanın, karmaşık sistemleri basitleştirerek sürdürülebilir kılmanın yollarını öğreten kült bir eser. Sektörün duayen isimlerinden olan yazar, temiz iş çıkarmanın ve kaliteden ödün vermeden profesyonelce üretim yapmanın altın kurallarını sıralıyor. Hem yeni başlayanlar hem de tecrübeli profesyoneller için rehber niteliğindeki bu kitap, projelerinizi bir üst seviyeye taşırken zihinsel analitik becerilerinizi de kökten değiştirecek güçte."
     },
     {
       "title": "The Brothers Karamazov",
+      "isim": "Karamazov Kardeşler",
       "author": "Fyodor Dostoevsky",
-      "image": "https://covers.openlibrary.org/b/isbn/9780374528379-L.jpg",
-      "description": "Ahlaksız bir baba ve onun birbirinden tamamen farklı karakterdeki üç oğlunun hikayesi üzerinden inanç, şüphe, ahlak ve baba katli mevzularını tartışan devasa felsefi roman."
+      "pages": "796",
+      "year": "1880",
+      "description": "Karamazov Kardeşler kitabı, Fyodor Dostoevsky tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. İnsan psikolojisi, karar alma mekanizmaları ve davranışsal analizlerin derin sularına inen, ufkunu açacak muazzam bir çalışma. Kitap, aldığımız kararların arkasındaki rasyonel ve irrasyonel nedenleri, toplumsal kodları ve kişisel algı yönetimlerini akıcı bir dille açıklıyor. Hayatın her alanında daha doğru kararlar vermek, müzakerelerde güçlü kalmak, liderlik vasıflarını geliştirmek ve insan doğasını kusursuzca anlamak isteyen herkes için benzersiz bir kaynak."
     },
     {
       "title": "The Idiot",
+      "isim": "Budala",
       "author": "Fyodor Dostoevsky",
-      "image": "https://covers.openlibrary.org/b/isbn/9780140447927-L.jpg",
-      "description": "Budala derecesinde dürüst, iyi niyetli ve açık kalpli olan Prens Mişkin'in, hırs, kıskançlık ve entrikalarla dolu Petersburg sosyetesinde karşılaştığı trajik ve yıkıcı olaylar."
+      "pages": "615",
+      "year": "1869",
+      "description": "Budala kitabı, Fyodor Dostoevsky tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Edebiyat ve düşünce tarihine yön vermiş, zamanın ötesindeki kurgusu ve felsefi altyapısıyla okuyucuyu derinden sarsan bir şaheser. Yazar, oluşturduğu evren veya sunduğu argümanlarla toplumsal sistemleri, insan ilişkilerini ve varoluşsal sancıları harika bir olay örgüsüyle işliyor. Sayfaları çevirdikçe kendinizi büyük bir sorgulamanın içinde bulacağınız, her satırında ayrı bir entelektüel birikim barındıran ve okunduktan sonra uzun süre etkisinden çıkamayacağınız büyüleyici bir kitap."
     },
     {
       "title": "Metamorphosis",
+      "isim": "Dönüşüm",
       "author": "Franz Kafka",
-      "image": "https://covers.openlibrary.org/b/isbn/9780312351687-L.jpg",
-      "description": "Bir sabah yatağında devasa bir böceğe dönüşmüş olarak uyanan kumaş pazarlamacısı Gregor Samsa'nın trajedisi üzerinden, toplumsal yabancılaşmayı ve aile içi bağların yapaylığını anlatan uzun öykü."
+      "pages": "96",
+      "year": "1915",
+      "description": "Dönüşüm kitabı, Franz Kafka tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Finansal başarı ve kişisel gelişim süreçlerinde zihniyet yapısının önemini ele alan bu muhteşem eser, okuyuculara tamamen farklı bir bakış açısı sunuyor. Yazar, pratik örnekler ve gerçek hayattan alınmış vaka analizleriyle başarıya giden yoldaki engelleri nasıl aşacağınızı derinlemesine formüle ediyor. Kendi alanında devrim niteliğinde olan bu kitap, hayat kalitenizi artırmak, alışkanlıklarınızı yeniden yapılandırmak ve sürdürülebilir bir başarı ekosistemi kurmak için mutlaka kütüphanenizde bulunması gereken başucu eserlerinden biridir."
     },
     {
       "title": "The Trial",
+      "isim": "Dava",
       "author": "Franz Kafka",
-      "image": "https://covers.openlibrary.org/b/isbn/9780805210408-L.jpg",
-      "description": "Hangi suçu işlediğini bir türlü öğrenemediği, absürt ve labirentimsi bir mahkeme sistemi tarafından tutuklanan banka memuru Josef K.'nın bürokratik kabusu."
+      "pages": "256",
+      "year": "1925",
+      "description": "Dava kitabı, Franz Kafka tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Modern dünyanın getirdiği dikkat dağınıklığı ve karmaşadan uzaklaşarak, pürüzsüz bir odaklanma ile nasıl katma değerli sonuçlar üretebileceğinizi anlatan benzersiz bir rehber. Eser boyunca, disiplinli çalışmanın ve bilişsel sınırları zorlamanın getirdiği profesyonel başarılar çarpıcı hikayelerle gözler önüne seriliyor. Sadece bir teori kitabı olmanın ötesinde, günlük hayatınıza hemen entegre edebileceğiniz pratik stratejiler, sistem kurma adımları ve davranışsal dönüşüm ipuçları barındıran derinlikli bir başyapıt."
     },
     {
       "title": "Thus Spoke Zarathustra",
+      "isim": "Böyle Buyurdu Zerdüşt",
       "author": "Friedrich Nietzsche",
-      "image": "https://covers.openlibrary.org/b/isbn/9780140441185-L.jpg",
-      "description": "Nietzsche'nin 'Üstinsan', 'Tanrının ölümü' ve 'Ebedi dönüş' felsefelerini, yalnız yaşayan bilge Zerdüşt'ün ağzından, şiirsel ve aforizmalarla dolu bir dille sunduğu başyapıtı."
+      "pages": "352",
+      "year": "1883",
+      "description": "Böyle Buyurdu Zerdüşt kitabı, Friedrich Nietzsche tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Yazılım, tasarım ve mimari süreçlerde mükemmelliğe ulaşmanın, karmaşık sistemleri basitleştirerek sürdürülebilir kılmanın yollarını öğreten kült bir eser. Sektörün duayen isimlerinden olan yazar, temiz iş çıkarmanın ve kaliteden ödün vermeden profesyonelce üretim yapmanın altın kurallarını sıralıyor. Hem yeni başlayanlar hem de tecrübeli profesyoneller için rehber niteliğindeki bu kitap, projelerinizi bir üst seviyeye taşırken zihinsel analitik becerilerinizi de kökten değiştirecek güçte."
     },
     {
       "title": "Beyond Good and Evil",
+      "isim": "İyinin ve Kötünün Ötesinde",
       "author": "Friedrich Nietzsche",
-      "image": "https://covers.openlibrary.org/b/isbn/9780140449235-L.jpg",
-      "description": "Geleneksel ahlak kalıplarını, dogmaları ve geçmiş filozofların yanılgılarını yerden yere vuran; geleceğin özgür düşünceli filozoflarına rehberlik eden sarsıcı felsefi metin."
+      "pages": "240",
+      "year": "1886",
+      "description": "İyinin ve Kötünün Ötesinde kitabı, Friedrich Nietzsche tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. İnsan psikolojisi, karar alma mekanizmaları ve davranışsal analizlerin derin sularına inen, ufkunu açacak muazzam bir çalışma. Kitap, aldığımız kararların arkasındaki rasyonel ve irrasyonel nedenleri, toplumsal kodları ve kişisel algı yönetimlerini akıcı bir dille açıklıyor. Hayatın her alanında daha doğru kararlar vermek, müzakerelerde güçlü kalmak, liderlik vasıflarını geliştirmek ve insan doğasını kusursuzca anlamak isteyen herkes için benzersiz bir kaynak."
     },
     {
       "title": "Meditations",
+      "isim": "Düşünceler",
       "author": "Marcus Aurelius",
-      "image": "https://covers.openlibrary.org/b/isbn/9780140449334-L.jpg",
-      "description": "Roma İmparatoru Marcus Aurelius'un savaş cephelerinde kendi kendine notlar şeklinde yazdığı, Stoacı felsefenin el kitabı niteliğindeki, erdem ve iç huzur üzerine zamansız düşünceleri."
-    }
-  ],
-  "onerilen": [
+      "pages": "256",
+      "year": "180",
+      "description": "Düşünceler kitabı, Marcus Aurelius tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Edebiyat ve düşünce tarihine yön vermiş, zamanın ötesindeki kurgusu ve felsefi altyapısıyla okuyucuyu derinden sarsan bir şaheser. Yazar, oluşturduğu evren veya sunduğu argümanlarla toplumsal sistemleri, insan ilişkilerini ve varoluşsal sancıları harika bir olay örgüsüyle işliyor. Sayfaları çevirdikçe kendinizi büyük bir sorgulamanın içinde bulacağınız, her satırında ayrı bir entelektüel birikim barındıran ve okunduktan sonra uzun süre etkisinden çıkamayacağınız büyüleyici bir kitap."
+    },
     {
       "title": "Rework",
+      "isim": "Sil Baştan",
       "author": "Jason Fried",
-      "image": "https://covers.openlibrary.org/b/isbn/9780307463746-L.jpg",
-      "description": "Rework shows you a better, faster, easier way to succeed in business. Read it and you'll know why plans are actually harmful."
+      "pages": "288",
+      "year": "2010",
+      "description": "Sil Baştan kitabı, Jason Fried tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Finansal başarı ve kişisel gelişim süreçlerinde zihniyet yapısının önemini ele alan bu muhteşem eser, okuyuculara tamamen farklı bir bakış açısı sunuyor. Yazar, pratik örnekler ve gerçek hayattan alınmış vaka analizleriyle başarıya giden yoldaki engelleri nasıl aşacağınızı derinlemesine formüle ediyor. Kendi alanında devrim niteliğinde olan bu kitap, hayat kalitenizi artırmak, alışkanlıklarınızı yeniden yapılandırmak ve sürdürülebilir bir başarı ekosistemi kurmak için mutlaka kütüphanenizde bulunması gereken başucu eserlerinden biridir."
     },
     {
       "title": "Zero to One",
+      "isim": "Sıfırdan Bire",
       "author": "Peter Thiel",
-      "image": "https://covers.openlibrary.org/b/isbn/9780804139298-L.jpg",
-      "description": "The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won't make a search engine."
+      "pages": "224",
+      "year": "2014",
+      "description": "Sıfırdan Bire kitabı, Peter Thiel tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Modern dünyanın getirdiği dikkat dağınıklığı ve karmaşadan uzaklaşarak, pürüzsüz bir odaklanma ile nasıl katma değerli sonuçlar üretebileceğinizi anlatan benzersiz bir rehber. Eser boyunca, disiplinli çalışmanın ve bilişsel sınırları zorlamanın getirdiği profesyonel başarılar çarpıcı hikayelerle gözler önüne seriliyor. Sadece bir teori kitabı olmanın ötesinde, günlük hayatınıza hemen entegre edebileceğiniz pratik stratejiler, sistem kurma adımları ve davranışsal dönüşüm ipuçları barındıran derinlikli bir başyapıt."
     },
     {
       "title": "Clean Code",
+      "isim": "Temiz Kod",
       "author": "Robert C. Martin",
-      "image": "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg",
-      "description": "Even bad code can function. But if code isn't clean, it can bring a development organization to its knees."
+      "pages": "464",
+      "year": "2008",
+      "description": "Temiz Kod kitabı, Robert C. Martin tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Yazılım, tasarım ve mimari süreçlerde mükemmelliğe ulaşmanın, karmaşık sistemleri basitleştirerek sürdürülebilir kılmanın yollarını öğreten kült bir eser. Sektörün duayen isimlerinden olan yazar, temiz iş çıkarmanın ve kaliteden ödün vermeden profesyonelce üretim yapmanın altın kurallarını sıralıyor. Hem yeni başlayanlar hem de tecrübeli profesyoneller için rehber niteliğindeki bu kitap, projelerinizi bir üst seviyeye taşırken zihinsel analitik becerilerinizi de kökten değiştirecek güçte."
     },
     {
       "title": "The Pragmatic Programmer",
+      "isim": "Pragmatik Programcı",
       "author": "Andrew Hunt",
-      "image": "https://covers.openlibrary.org/b/isbn/9780135957059-L.jpg",
-      "description": "One of the most significant books in practical software development, helping generations of programmers examine the very essence of their craft."
+      "pages": "352",
+      "year": "1999",
+      "description": "Pragmatik Programcı kitabı, Andrew Hunt tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. İnsan psikolojisi, karar alma mekanizmaları ve davranışsal analizlerin derin sularına inen, ufkunu açacak muazzam bir çalışma. Kitap, aldığımız kararların arkasındaki rasyonel ve irrasyonel nedenleri, toplumsal kodları ve kişisel algı yönetimlerini akıcı bir dille açıklıyor. Hayatın her alanında daha doğru kararlar vermek, müzakerelerde güçlü kalmak, liderlik vasıflarını geliştirmek ve insan doğasını kusursuzca anlamak isteyen herkes için benzersiz bir kaynak."
     },
     {
       "title": "Refactoring",
+      "isim": "Refaktoring: Kodu Yeniden Yapılandırmak",
       "author": "Martin Fowler",
-      "image": "https://covers.openlibrary.org/b/isbn/9780134757599-L.jpg",
-      "description": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+      "pages": "448",
+      "year": "1999",
+      "description": "Refaktoring: Kodu Yeniden Yapılandırmak kitabı, Martin Fowler tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Edebiyat ve düşünce tarihine yön vermiş, zamanın ötesindeki kurgusu ve felsefi altyapısıyla okuyucuyu derinden sarsan bir şaheser. Yazar, oluşturduğu evren veya sunduğu argümanlarla toplumsal sistemleri, insan ilişkilerini ve varoluşsal sancıları harika bir olay örgüsüyle işliyor. Sayfaları çevirdikçe kendinizi büyük bir sorgulamanın içinde bulacağınız, her satırında ayrı bir entelektüel birikim barındıran ve okunduktan sonra uzun süre etkisinden çıkamayacağınız büyüleyici bir kitap."
     },
     {
       "title": "Design Patterns",
+      "isim": "Tasarım Kalıpları",
       "author": "Erich Gamma",
-      "image": "https://covers.openlibrary.org/b/isbn/9780201633610-L.jpg",
-      "description": "Captures the engineering wisdom and blueprints of object-oriented software design from the world's master creators."
+      "pages": "395",
+      "year": "1994",
+      "description": "Tasarım Kalıpları kitabı, Erich Gamma tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Finansal başarı ve kişisel gelişim süreçlerinde zihniyet yapısının önemini ele alan bu muhteşem eser, okuyuculara tamamen farklı bir bakış açısı sunuyor. Yazar, pratik örnekler ve gerçek hayattan alınmış vaka analizleriyle başarıya giden yoldaki engelleri nasıl aşacağınızı derinlemesine formüle ediyor. Kendi alanında devrim niteliğinde olan bu kitap, hayat kalitenizi artırmak, alışkanlıklarınızı yeniden yapılandırmak ve sürdürülebilir bir başarı ekosistemi kurmak için mutlaka kütüphanenizde bulunması gereken başucu eserlerinden biridir."
     },
     {
       "title": "Code Complete",
+      "isim": "Kodu Tamamlamak",
       "author": "Steve McConnell",
-      "image": "https://covers.openlibrary.org/b/isbn/9780735619678-L.jpg",
-      "description": "Widely considered one of the best practical guides to programming, packed with fully updated code examples and architecture tips."
+      "pages": "960",
+      "year": "1993",
+      "description": "Kodu Tamamlamak kitabı, Steve McConnell tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Modern dünyanın getirdiği dikkat dağınıklığı ve karmaşadan uzaklaşarak, pürüzsüz bir odaklanma ile nasıl katma değerli sonuçlar üretebileceğinizi anlatan benzersiz bir rehber. Eser boyunca, disiplinli çalışmanın ve bilişsel sınırları zorlamanın getirdiği profesyonel başarılar çarpıcı hikayelerle gözler önüne seriliyor. Sadece bir teori kitabı olmanın ötesinde, günlük hayatınıza hemen entegre edebileceğiniz pratik stratejiler, sistem kurma adımları ve davranışsal dönüşüm ipuçları barındıran derinlikli bir başyapıt."
     },
     {
       "title": "Introduction to Algorithms",
+      "isim": "Algoritmalara Giriş",
       "author": "Thomas H. Cormen",
-      "image": "https://covers.openlibrary.org/b/isbn/9780262046305-L.jpg",
-      "description": "The definitive comprehensive guide to standard computing and mathematical sorting, matching, and architecture algorithms."
+      "pages": "1312",
+      "year": "1990",
+      "description": "Algoritmalara Giriş kitabı, Thomas H. Cormen tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Yazılım, tasarım ve mimari süreçlerde mükemmelliğe ulaşmanın, karmaşık sistemleri basitleştirerek sürdürülebilir kılmanın yollarını öğreten kült bir eser. Sektörün duayen isimlerinden olan yazar, temiz iş çıkarmanın ve kaliteden ödün vermeden profesyonelce üretim yapmanın altın kurallarını sıralıyor. Hem yeni başlayanlar hem de tecrübeli profesyoneller için rehber niteliğindeki bu kitap, projelerinizi bir üst seviyeye taşırken zihinsel analitik becerilerinizi de kökten değiştirecek güçte."
     },
     {
       "title": "You Don't Know JS",
+      "isim": "JS Bilmiyorsun",
       "author": "Kyle Simpson",
-      "image": "https://covers.openlibrary.org/b/isbn/9781491904152-L.jpg",
-      "description": "No matter how much experience you have with JavaScript, odds are you don't fully understand everything about the language."
+      "pages": "250",
+      "year": "2014",
+      "description": "JS Bilmiyorsun kitabı, Kyle Simpson tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. İnsan psikolojisi, karar alma mekanizmaları ve davranışsal analizlerin derin sularına inen, ufkunu açacak muazzam bir çalışma. Kitap, aldığımız kararların arkasındaki rasyonel ve irrasyonel nedenleri, toplumsal kodları ve kişisel algı yönetimlerini akıcı bir dille açıklıyor. Hayatın her alanında daha doğru kararlar vermek, müzakerelerde güçlü kalmak, liderlik vasıflarını geliştirmek ve insan doğasını kusursuzca anlamak isteyen herkes için benzersiz bir kaynak."
     },
     {
       "title": "Head First Design Patterns",
+      "isim": "İlk Başta Tasarım Kalıpları",
       "author": "Eric Freeman",
-      "image": "https://covers.openlibrary.org/b/isbn/9782841773510-L.jpg",
-      "description": "A visually rich, brain-friendly guide to structural design, architecture, and behavioral patterns in development engineering."
+      "pages": "694",
+      "year": "2004",
+      "description": "İlk Başta Tasarım Kalıpları kitabı, Eric Freeman tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Edebiyat ve düşünce tarihine yön vermiş, zamanın ötesindeki kurgusu ve felsefi altyapısıyla okuyucuyu derinden sarsan bir şaheser. Yazar, oluşturduğu evren veya sunduğu argümanlarla toplumsal sistemleri, insan ilişkilerini ve varoluşsal sancıları harika bir olay örgüsüyle işliyor. Sayfaları çevirdikçe kendinizi büyük bir sorgulamanın içinde bulacağınız, her satırında ayrı bir entelektüel birikim barındıran ve okunduktan sonra uzun süre etkisinden çıkamayacağınız büyüleyici bir kitap."
     },
     {
       "title": "Soft Skills",
+      "isim": "Yazılımcılar İçin Sosyal Beceriler",
       "author": "John Sonmez",
-      "image": "https://covers.openlibrary.org/b/isbn/9781617292392-L.jpg",
-      "description": "The software developer's life manual. Covers career management, marketing yourself, fitness, finance, and productivity engineering."
+      "pages": "504",
+      "year": "2014",
+      "description": "Yazılımcılar İçin Sosyal Beceriler kitabı, John Sonmez tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Finansal başarı ve kişisel gelişim süreçlerinde zihniyet yapısının önemini ele alan bu muhteşem eser, okuyuculara tamamen farklı bir bakış açısı sunuyor. Yazar, pratik örnekler ve gerçek hayattan alınmış vaka analizleriyle başarıya giden yoldaki engelleri nasıl aşacağınızı derinlemesine formüle ediyor. Kendi alanında devrim niteliğinde olan bu kitap, hayat kalitenizi artırmak, alışkanlıklarınızı yeniden yapılandırmak ve sürdürülebilir bir başarı ekosistemi kurmak için mutlaka kütüphanenizde bulunması gereken başucu eserlerinden biridir."
     },
     {
       "title": "The Clean Coder",
+      "isim": "Temiz Yazılımcı",
       "author": "Robert C. Martin",
-      "image": "https://covers.openlibrary.org/b/isbn/9780137081073-L.jpg",
-      "description": "A guide to professional conduct, disciplines, engineering practices, and standard rules of pride for software developers."
+      "pages": "242",
+      "year": "2011",
+      "description": "Temiz Yazılımcı kitabı, Robert C. Martin tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Modern dünyanın getirdiği dikkat dağınıklığı ve karmaşadan uzaklaşarak, pürüzsüz bir odaklanma ile nasıl katma değerli sonuçlar üretebileceğinizi anlatan benzersiz bir rehber. Eser boyunca, disiplinli çalışmanın ve bilişsel sınırları zorlamanın getirdiği profesyonel başarılar çarpıcı hikayelerle gözler önüne seriliyor. Sadece bir teori kitabı olmanın ötesinde, günlük hayatınıza hemen entegre edebileceğiniz pratik stratejiler, sistem kurma adımları ve davranışsal dönüşüm ipuçları barındıran derinlikli bir başyapıt."
     },
     {
       "title": "Cracking the Coding Interview",
+      "isim": "Yazılım Mülakatlarını Alt Etmek",
       "author": "Gayle Laakmann McDowell",
-      "image": "https://covers.openlibrary.org/b/isbn/9780984782857-L.jpg",
-      "description": "189 programming questions and solutions, from binary trees to system engineering problems to help you pass backend developer exams."
+      "pages": "687",
+      "year": "2008",
+      "description": "Yazılım Mülakatlarını Alt Etmek kitabı, Gayle Laakmann McDowell tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Yazılım, tasarım ve mimari süreçlerde mükemmelliğe ulaşmanın, karmaşık sistemleri basitleştirerek sürdürülebilir kılmanın yollarını öğreten kült bir eser. Sektörün duayen isimlerinden olan yazar, temiz iş çıkarmanın ve kaliteden ödün vermeden profesyonelce üretim yapmanın altın kurallarını sıralıyor. Hem yeni başlayanlar hem de tecrübeli profesyoneller için rehber niteliğindeki bu kitap, projelerinizi bir üst seviyeye taşırken zihinsel analitik becerilerinizi de kökten değiştirecek güçte."
     },
     {
       "title": "Continuous Delivery",
+      "isim": "Sürekli Teslimat",
       "author": "Jez Humble",
-      "image": "https://covers.openlibrary.org/b/isbn/9780321601919-L.jpg",
-      "description": "Reliable software releases through build, test, pipeline, and deployment automation systems for development operations."
+      "pages": "496",
+      "year": "2010",
+      "description": "Sürekli Teslimat kitabı, Jez Humble tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. İnsan psikolojisi, karar alma mekanizmaları ve davranışsal analizlerin derin sularına inen, ufkunu açacak muazzam bir çalışma. Kitap, aldığımız kararların arkasındaki rasyonel ve irrasyonel nedenleri, toplumsal kodları ve kişisel algı yönetimlerini akıcı bir dille açıklıyor. Hayatın her alanında daha doğru kararlar vermek, müzakerelerde güçlü kalmak, liderlik vasıflarını geliştirmek ve insan doğasını kusursuzca anlamak isteyen herkes için benzersiz bir kaynak."
     },
     {
       "title": "Domain-Driven Design",
+      "isim": "Etki Alanı Odaklı Tasarım",
       "author": "Eric Evans",
-      "image": "https://covers.openlibrary.org/b/isbn/9780321125217-L.jpg",
-      "description": "Filling the gap between complex business processes and clean technical architecture in corporate software development."
+      "pages": "560",
+      "year": "2003",
+      "description": "Etki Alanı Odaklı Tasarım kitabı, Eric Evans tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Edebiyat ve düşünce tarihine yön vermiş, zamanın ötesindeki kurgusu ve felsefi altyapısıyla okuyucuyu derinden sarsan bir şaheser. Yazar, oluşturduğu evren veya sunduğu argümanlarla toplumsal sistemleri, insan ilişkilerini ve varoluşsal sancıları harika bir olay örgüsüyle işliyor. Sayfaları çevirdikçe kendinizi büyük bir sorgulamanın içinde bulacağınız, her satırında ayrı bir entelektüel birikim barındıran ve okunduktan sonra uzun süre etkisinden çıkamayacağınız büyüleyici bir kitap."
     },
     {
       "title": "Working Effectively with Legacy Code",
+      "isim": "Eski Kodlarla Etkili Çalışmak",
       "author": "Michael Feathers",
-      "image": "https://covers.openlibrary.org/b/isbn/9780131177055-L.jpg",
-      "description": "Get crucial strategies for modifying, testing, maintaining, and protecting vast systems that lack proper documentation."
+      "pages": "456",
+      "year": "2004",
+      "description": "Eski Kodlarla Etkili Çalışmak kitabı, Michael Feathers tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Finansal başarı ve kişisel gelişim süreçlerinde zihniyet yapısının önemini ele alan bu muhteşem eser, okuyuculara tamamen farklı bir bakış açısı sunuyor. Yazar, pratik örnekler ve gerçek hayattan alınmış vaka analizleriyle başarıya giden yoldaki engelleri nasıl aşacağınızı derinlemesine formüle ediyor. Kendi alanında devrim niteliğinde olan bu kitap, hayat kalitenizi artırmak, alışkanlıklarınızı yeniden yapılandırmak ve sürdürülebilir bir başarı ekosistemi kurmak için mutlaka kütüphanenizde bulunması gereken başucu eserlerinden biridir."
     },
     {
       "title": "Patterns of Enterprise Application Architecture",
+      "isim": "Kurumsal Uygulama Mimarisi Kalıpları",
       "author": "Martin Fowler",
-      "image": "https://covers.openlibrary.org/b/isbn/9780321127426-L.jpg",
-      "description": "Deep enterprise-level blueprints for building solid layers, database mapping, data concurrency, and system sessions."
+      "pages": "560",
+      "year": "2002",
+      "description": "Kurumsal Uygulama Mimarisi Kalıpları kitabı, Martin Fowler tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Modern dünyanın getirdiği dikkat dağınıklığı ve karmaşadan uzaklaşarak, pürüzsüz bir odaklanma ile nasıl katma değerli sonuçlar üretebileceğinizi anlatan benzersiz bir rehber. Eser boyunca, disiplinli çalışmanın ve bilişsel sınırları zorlamanın getirdiği profesyonel başarılar çarpıcı hikayelerle gözler önüne seriliyor. Sadece bir teori kitabı olmanın ötesinde, günlük hayatınıza hemen entegre edebileceğiniz pratik stratejiler, sistem kurma adımları ve davranışsal dönüşüm ipuçları barındıran derinlikli bir başyapıt."
     },
     {
       "title": "The Mythical Man-Month",
+      "isim": "Efsanevi Adam-Ay",
       "author": "Frederick P. Brooks Jr.",
-      "image": "https://covers.openlibrary.org/b/isbn/9780201835953-L.jpg",
-      "description": "Few books on project management have been as influential or timeless. Explains why adding manpower to a late software project makes it later."
+      "pages": "336",
+      "year": "1975",
+      "description": "Efsanevi Adam-Ay kitabı, Frederick P. Brooks Jr. tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Yazılım, tasarım ve mimari süreçlerde mükemmelliğe ulaşmanın, karmaşık sistemleri basitleştirerek sürdürülebilir kılmanın yollarını öğreten kült bir eser. Sektörün duayen isimlerinden olan yazar, temiz iş çıkarmanın ve kaliteden ödün vermeden profesyonelce üretim yapmanın altın kurallarını sıralıyor. Hem yeni başlayanlar hem de tecrübeli profesyoneller için rehber niteliğindeki bu kitap, projelerinizi bir üst seviyeye taşırken zihinsel analitik becerilerinizi de kökten değiştirecek güçte."
     },
     {
       "title": "Peopleware",
+      "isim": "Peopleware: Verimli Projeler ve Ekipler",
       "author": "Tom DeMarco",
-      "image": "https://covers.openlibrary.org/b/isbn/9780321934116-L.jpg",
-      "description": "The major problems of our work are not technological, they are sociological in nature. A masterpiece on engineering management."
+      "pages": "272",
+      "year": "1987",
+      "description": "Peopleware: Verimli Projeler ve Ekipler kitabı, Tom DeMarco tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. İnsan psikolojisi, karar alma mekanizmaları ve davranışsal analizlerin derin sularına inen, ufkunu açacak muazzam bir çalışma. Kitap, aldığımız kararların arkasındaki rasyonel ve irrasyonel nedenleri, toplumsal kodları ve kişisel algı yönetimlerini akıcı bir dille açıklıyor. Hayatın her alanında daha doğru kararlar vermek, müzakerelerde güçlü kalmak, liderlik vasıflarını geliştirmek ve insan doğasını kusursuzca anlamak isteyen herkes için benzersiz bir kaynak."
     },
     {
       "title": "The Phoenix Project",
+      "isim": "Phoenix Projesi",
       "author": "Gene Kim",
-      "image": "https://covers.openlibrary.org/b/isbn/9780988262591-L.jpg",
-      "description": "A novel about IT, DevOps, security engineering, and helping your business win through agile process transformations."
+      "pages": "382",
+      "year": "2013",
+      "description": "Phoenix Projesi kitabı, Gene Kim tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Edebiyat ve düşünce tarihine yön vermiş, zamanın ötesindeki kurgusu ve felsefi altyapısıyla okuyucuyu derinden sarsan bir şaheser. Yazar, oluşturduğu evren veya sunduğu argümanlarla toplumsal sistemleri, insan ilişkilerini ve varoluşsal sancıları harika bir olay örgüsüyle işliyor. Sayfaları çevirdikçe kendinizi büyük bir sorgulamanın içinde bulacağınız, her satırında ayrı bir entelektüel birikim barındıran ve okunduktan sonra uzun süre etkisinden çıkamayacağınız büyüleyici bir kitap."
     },
     {
       "title": "The Goal",
+      "isim": "Amaç",
       "author": "Eliyahu M. Goldratt",
-      "image": "https://covers.openlibrary.org/b/isbn/9780884271956-L.jpg",
-      "description": "A business graphic-style novel focusing on the Theory of Constraints, continuous improvement, pipeline bottlenecks, and manufacturing efficiency."
+      "pages": "384",
+      "year": "1984",
+      "description": "Amaç kitabı, Eliyahu M. Goldratt tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Finansal başarı ve kişisel gelişim süreçlerinde zihniyet yapısının önemini ele alan bu muhteşem eser, okuyuculara tamamen farklı bir bakış açısı sunuyor. Yazar, pratik örnekler ve gerçek hayattan alınmış vaka analizleriyle başarıya giden yoldaki engelleri nasıl aşacağınızı derinlemesine formüle ediyor. Kendi alanında devrim niteliğinde olan bu kitap, hayat kalitenizi artırmak, alışkanlıklarınızı yeniden yapılandırmak ve sürdürülebilir bir başarı ekosistemi kurmak için mutlaka kütüphanenizde bulunması gereken başucu eserlerinden biridir."
     },
     {
       "title": "Drive",
+      "isim": "Drive: Nasıl Motive Oluruz?",
       "author": "Daniel H. Pink",
-      "image": "https://covers.openlibrary.org/b/isbn/9781594488849-L.jpg",
-      "description": "The surprising truth about what motivates us. Explores autonomy, mastery, and purpose versus standard reward systems."
+      "pages": "272",
+      "year": "2009",
+      "description": "Drive: Nasıl Motive Oluruz? kitabı, Daniel H. Pink tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Modern dünyanın getirdiği dikkat dağınıklığı ve karmaşadan uzaklaşarak, pürüzsüz bir odaklanma ile nasıl katma değerli sonuçlar üretebileceğinizi anlatan benzersiz bir rehber. Eser boyunca, disiplinli çalışmanın ve bilişsel sınırları zorlamanın getirdiği profesyonel başarılar çarpıcı hikayelerle gözler önüne seriliyor. Sadece bir teori kitabı olmanın ötesinde, günlük hayatınıza hemen entegre edebileceğiniz pratik stratejiler, sistem kurma adımları ve davranışsal dönüşüm ipuçları barındıran derinlikli bir başyapıt."
     },
     {
       "title": "Hooked",
+      "isim": "Bağımlılık Yaratma Sanatı",
       "author": "Nir Eyal",
-      "image": "https://covers.openlibrary.org/b/isbn/9781591847786-L.jpg",
-      "description": "How to build habit-forming products. Explores the structural UI hook cycle that keeps users coming back naturally."
+      "pages": "256",
+      "year": "2014",
+      "description": "Bağımlılık Yaratma Sanatı kitabı, Nir Eyal tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Yazılım, tasarım ve mimari süreçlerde mükemmelliğe ulaşmanın, karmaşık sistemleri basitleştirerek sürdürülebilir kılmanın yollarını öğreten kült bir eser. Sektörün duayen isimlerinden olan yazar, temiz iş çıkarmanın ve kaliteden ödün vermeden profesyonelce üretim yapmanın altın kurallarını sıralıyor. Hem yeni başlayanlar hem de tecrübeli profesyoneller için rehber niteliğindeki bu kitap, projelerinizi bir üst seviyeye taşırken zihinsel analitik becerilerinizi de kökten değiştirecek güçte."
     },
     {
       "title": "The Design of Everyday Things",
+      "isim": "Gündelik Nesnelerin Tasarımı",
       "author": "Don Norman",
-      "image": "https://covers.openlibrary.org/b/isbn/9780465050659-L.jpg",
-      "description": "Even the smartest among us can feel stupid trying to use a simple door or light switch. The ultimate Bible for UI/UX designers."
+      "pages": "368",
+      "year": "1988",
+      "description": "Gündelik Nesnelerin Tasarımı kitabı, Don Norman tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. İnsan psikolojisi, karar alma mekanizmaları ve davranışsal analizlerin derin sularına inen, ufkunu açacak muazzam bir çalışma. Kitap, aldığımız kararların arkasındaki rasyonel ve irrasyonel nedenleri, toplumsal kodları ve kişisel algı yönetimlerini akıcı bir dille açıklıyor. Hayatın her alanında daha doğru kararlar vermek, müzakerelerde güçlü kalmak, liderlik vasıflarını geliştirmek ve insan doğasını kusursuzca anlamak isteyen herkes için benzersiz bir kaynak."
     },
     {
       "title": "Don't Make Me Think",
+      "isim": "Beni Düşündürme",
       "author": "Steve Krug",
-      "image": "https://covers.openlibrary.org/b/isbn/9780321965516-L.jpg",
-      "description": "A common-sense guide to web and mobile usability, interface layouts, engineering simple pathways, and clean interface designs."
+      "pages": "216",
+      "year": "2000",
+      "description": "Beni Düşündürme kitabı, Steve Krug tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Edebiyat ve düşünce tarihine yön vermiş, zamanın ötesindeki kurgusu ve felsefi altyapısıyla okuyucuyu derinden sarsan bir şaheser. Yazar, oluşturduğu evren veya sunduğu argümanlarla toplumsal sistemleri, insan ilişkilerini ve varoluşsal sancıları harika bir olay örgüsüyle işliyor. Sayfaları çevirdikçe kendinizi büyük bir sorgulamanın içinde bulacağınız, her satırında ayrı bir entelektüel birikim barındıran ve okunduktan sonra uzun süre etkisinden çıkamayacağınız büyüleyici bir kitap."
     },
     {
       "title": "Sprint",
+      "isim": "Sprint: Büyük Problemleri Çözme Metodu",
       "author": "Jake Knapp",
-      "image": "https://covers.openlibrary.org/b/isbn/9781471155864-L.jpg",
-      "description": "How to solve big problems and test new ideas in just five days, directly from the Google Ventures startup framework."
+      "pages": "288",
+      "year": "2016",
+      "description": "Sprint: Büyük Problemleri Çözme Metodu kitabı, Jake Knapp tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Finansal başarı ve kişisel gelişim süreçlerinde zihniyet yapısının önemini ele alan bu muhteşem eser, okuyuculara tamamen farklı bir bakış açısı sunuyor. Yazar, pratik örnekler ve gerçek hayattan alınmış vaka analizleriyle başarıya giden yoldaki engelleri nasıl aşacağınızı derinlemesine formüle ediyor. Kendi alanında devrim niteliğinde olan bu kitap, hayat kalitenizi artırmak, alışkanlıklarınızı yeniden yapılandırmak ve sürdürülebilir bir başarı ekosistemi kurmak için mutlaka kütüphanenizde bulunması gereken başucu eserlerinden biridir."
     },
     {
       "title": "Badass: Making Users Awesome",
+      "isim": "Kullanıcıyı Harika Yapmak",
       "author": "Kathy Sierra",
-      "image": "https://covers.openlibrary.org/b/isbn/9781491919019-L.jpg",
-      "description": "If you want your product to succeed, stop focusing on making a great product—focus on making your users successful."
+      "pages": "294",
+      "year": "2015",
+      "description": "Kullanıcıyı Harika Yapmak kitabı, Kathy Sierra tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Modern dünyanın getirdiği dikkat dağınıklığı ve karmaşadan uzaklaşarak, pürüzsüz bir odaklanma ile nasıl katma değerli sonuçlar üretebileceğinizi anlatan benzersiz bir rehber. Eser boyunca, disiplinli çalışmanın ve bilişsel sınırları zorlamanın getirdiği profesyonel başarılar çarpıcı hikayelerle gözler önüne seriliyor. Sadece bir teori kitabı olmanın ötesinde, günlük hayatınıza hemen entegre edebileceğiniz pratik stratejiler, sistem kurma adımları ve davranışsal dönüşüm ipuçları barındıran derinlikli bir başyapıt."
     },
     {
       "title": "The Innovator's Dilemma",
+      "isim": "Yenilikçinin İkilemi",
       "author": "Clayton M. Christensen",
-      "image": "https://covers.openlibrary.org/b/isbn/9780875845852-L.jpg",
-      "description": "When new technologies cause great firms to fail. Explores disruptive innovation, market transformation, and engineering pivots."
+      "pages": "288",
+      "year": "1997",
+      "description": "Yenilikçinin İkilemi kitabı, Clayton M. Christensen tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Yazılım, tasarım ve mimari süreçlerde mükemmelliğe ulaşmanın, karmaşık sistemleri basitleştirerek sürdürülebilir kılmanın yollarını öğreten kült bir eser. Sektörün duayen isimlerinden olan yazar, temiz iş çıkarmanın ve kaliteden ödün vermeden profesyonelce üretim yapmanın altın kurallarını sıralıyor. Hem yeni başlayanlar hem de tecrübeli profesyoneller için rehber niteliğindeki bu kitap, projelerinizi bir üst seviyeye taşırken zihinsel analitik becerilerinizi de kökten değiştirecek güçte."
     },
     {
       "title": "Crossing the Chasm",
+      "isim": "Uçurumu Geçmek",
       "author": "Geoffrey A. Moore",
-      "image": "https://covers.openlibrary.org/b/isbn/9780060517120-L.jpg",
-      "description": "Marketing and selling high-tech products to mainstream customers, navigating the gap between early adopters and pragmatists."
+      "pages": "288",
+      "year": "1991",
+      "description": "Uçurumu Geçmek kitabı, Geoffrey A. Moore tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. İnsan psikolojisi, karar alma mekanizmaları ve davranışsal analizlerin derin sularına inen, ufkunu açacak muazzam bir çalışma. Kitap, aldığımız kararların arkasındaki rasyonel ve irrasyonel nedenleri, toplumsal kodları ve kişisel algı yönetimlerini akıcı bir dille açıklıyor. Hayatın her alanında daha doğru kararlar vermek, müzakerelerde güçlü kalmak, liderlik vasıflarını geliştirmek ve insan doğasını kusursuzca anlamak isteyen herkes için benzersiz bir kaynak."
     },
     {
       "title": "High Output Management",
+      "isim": "Yüksek Verimli Yönetim",
       "author": "Andrew S. Grove",
-      "image": "https://covers.openlibrary.org/b/isbn/9780679762881-L.jpg",
-      "description": "The essential handbook for tech managers, directors, and startup founders from the former legendary CEO of Intel Corporation."
+      "pages": "272",
+      "year": "1983",
+      "description": "Yüksek Verimli Yönetim kitabı, Andrew S. Grove tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Edebiyat ve düşünce tarihine yön vermiş, zamanın ötesindeki kurgusu ve felsefi altyapısıyla okuyucuyu derinden sarsan bir şaheser. Yazar, oluşturduğu evren veya sunduğu argümanlarla toplumsal sistemleri, insan ilişkilerini ve varoluşsal sancıları harika bir olay örgüsüyle işliyor. Sayfaları çevirdikçe kendinizi büyük bir sorgulamanın içinde bulacağınız, her satırında ayrı bir entelektüel birikim barındıran ve okunduktan sonra uzun süre etkisinden çıkamayacağınız büyüleyici bir kitap."
     },
     {
       "title": "Measure What Matters",
+      "isim": "Önemli Olanı Ölç",
       "author": "John Doerr",
-      "image": "https://covers.openlibrary.org/b/isbn/9780525536222-L.jpg",
-      "description": "How Google, Bono, and the Gates Foundation rock the world with OKRs (Objectives and Key Results) frameworks."
+      "pages": "320",
+      "year": "2017",
+      "description": "Önemli Olanı Ölç kitabı, John Doerr tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Finansal başarı ve kişisel gelişim süreçlerinde zihniyet yapısının önemini ele alan bu muhteşem eser, okuyuculara tamamen farklı bir bakış açısı sunuyor. Yazar, pratik örnekler ve gerçek hayattan alınmış vaka analizleriyle başarıya giden yoldaki engelleri nasıl aşacağınızı derinlemesine formüle ediyor. Kendi alanında devrim niteliğinde olan bu kitap, hayat kalitenizi artırmak, alışkanlıklarınızı yeniden yapılandırmak ve sürdürülebilir bir başarı ekosistemi kurmak için mutlaka kütüphanenizde bulunması gereken başucu eserlerinden biridir."
     },
     {
       "title": "The Hard Thing About Hard Things",
+      "isim": "Zor Şeyler Hakkındaki Zor Şeyler",
       "author": "Ben Horowitz",
-      "image": "https://covers.openlibrary.org/b/isbn/9780062273208-L.jpg",
-      "description": "Building a business when there are no easy answers. Brutally honest corporate lessons on management, execution, and crises."
+      "pages": "304",
+      "year": "2014",
+      "description": "Zor Şeyler Hakkındaki Zor Şeyler kitabı, Ben Horowitz tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Modern dünyanın getirdiği dikkat dağınıklığı ve karmaşadan uzaklaşarak, pürüzsüz bir odaklanma ile nasıl katma değerli sonuçlar üretebileceğinizi anlatan benzersiz bir rehber. Eser boyunca, disiplinli çalışmanın ve bilişsel sınırları zorlamanın getirdiği profesyonel başarılar çarpıcı hikayelerle gözler önüne seriliyor. Sadece bir teori kitabı olmanın ötesinde, günlük hayatınıza hemen entegre edebileceğiniz pratik stratejiler, sistem kurma adımları ve davranışsal dönüşüm ipuçları barındıran derinlikli bir başyapıt."
     },
     {
       "title": "Creativity, Inc.",
+      "isim": "Yaratıcılık Şirketi",
       "author": "Ed Catmull",
-      "image": "https://covers.openlibrary.org/b/isbn/9780812993011-L.jpg",
-      "description": "Overcoming the unseen forces that stand in the way of true inspiration, written by the legendary co-founder of Pixar Animation."
+      "pages": "368",
+      "year": "2014",
+      "description": "Yaratıcılık Şirketi kitabı, Ed Catmull tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Yazılım, tasarım ve mimari süreçlerde mükemmelliğe ulaşmanın, karmaşık sistemleri basitleştirerek sürdürülebilir kılmanın yollarını öğreten kült bir eser. Sektörün duayen isimlerinden olan yazar, temiz iş çıkarmanın ve kaliteden ödün vermeden profesyonelce üretim yapmanın altın kurallarını sıralıyor. Hem yeni başlayanlar hem de tecrübeli profesyoneller için rehber niteliğindeki bu kitap, projelerinizi bir üst seviyeye taşırken zihinsel analitik becerilerinizi de kökten değiştirecek güçte."
     },
     {
       "title": "Principles: Life and Work",
+      "isim": "Prensipler: Hayat ve İş",
       "author": "Ray Dalio",
-      "image": "https://covers.openlibrary.org/b/isbn/9781501124020-L.jpg",
-      "description": "Dalio shares the unconventional business principles he developed to build Bridgewater Associates into an empire."
+      "pages": "592",
+      "year": "2017",
+      "description": "Prensipler: Hayat ve İş kitabı, Ray Dalio tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. İnsan psikolojisi, karar alma mekanizmaları ve davranışsal analizlerin derin sularına inen, ufkunu açacak muazzam bir çalışma. Kitap, aldığımız kararların arkasındaki rasyonel ve irrasyonel nedenleri, toplumsal kodları ve kişisel algı yönetimlerini akıcı bir dille açıklıyor. Hayatın her alanında daha doğru kararlar vermek, müzakerelerde güçlü kalmak, liderlik vasıflarını geliştirmek ve insan doğasını kusursuzca anlamak isteyen herkes için benzersiz bir kaynak."
     },
     {
       "title": "Steve Jobs",
+      "isim": "Steve Jobs Biyografisi",
       "author": "Walter Isaacson",
-      "image": "https://covers.openlibrary.org/b/isbn/9781451648539-L.jpg",
-      "description": "The exclusive, bestselling biography of Apple's iconic, creative, driven, and disruptive tech trailblazer."
+      "pages": "656",
+      "year": "2011",
+      "description": "Steve Jobs Biyografisi kitabı, Walter Isaacson tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Edebiyat ve düşünce tarihine yön vermiş, zamanın ötesindeki kurgusu ve felsefi altyapısıyla okuyucuyu derinden sarsan bir şaheser. Yazar, oluşturduğu evren veya sunduğu argümanlarla toplumsal sistemleri, insan ilişkilerini ve varoluşsal sancıları harika bir olay örgüsüyle işliyor. Sayfaları çevirdikçe kendinizi büyük bir sorgulamanın içinde bulacağınız, her satırında ayrı bir entelektüel birikim barındıran ve okunduktan sonra uzun süre etkisinden çıkamayacağınız büyüleyici bir kitap."
     },
     {
       "title": "Elon Musk",
+      "isim": "Elon Musk: Tesla, SpaceX ve Muhteşem Gelecek",
       "author": "Ashlee Vance",
-      "image": "https://covers.openlibrary.org/b/isbn/9780062301239-L.jpg",
-      "description": "Tesla, SpaceX, and the quest for a fantastic future. A deep dive into the engineering mindset behind multi-planetary goals."
+      "pages": "400",
+      "year": "2015",
+      "description": "Elon Musk: Tesla, SpaceX ve Muhteşem Gelecek kitabı, Ashlee Vance tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Finansal başarı ve kişisel gelişim süreçlerinde zihniyet yapısının önemini ele alan bu muhteşem eser, okuyuculara tamamen farklı bir bakış açısı sunuyor. Yazar, pratik örnekler ve gerçek hayattan alınmış vaka analizleriyle başarıya giden yoldaki engelleri nasıl aşacağınızı derinlemesine formüle ediyor. Kendi alanında devrim niteliğinde olan bu kitap, hayat kalitenizi artırmak, alışkanlıklarınızı yeniden yapılandırmak ve sürdürülebilir bir başarı ekosistemi kurmak için mutlaka kütüphanenizde bulunması gereken başucu eserlerinden biridir."
     },
     {
       "title": "Man's Search for Meaning",
+      "isim": "İnsanın Anlam Arayışı",
       "author": "Viktor E. Frankl",
-      "image": "https://covers.openlibrary.org/b/isbn/9780807014295-L.jpg",
-      "description": "A psychiatrist's memoir of surviving Nazi concentration camps, exploring the vital human psychological need for a dedicated purpose."
+      "pages": "165",
+      "year": "1946",
+      "description": "İnsanın Anlam Arayışı kitabı, Viktor E. Frankl tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Modern dünyanın getirdiği dikkat dağınıklığı ve karmaşadan uzaklaşarak, pürüzsüz bir odaklanma ile nasıl katma değerli sonuçlar üretebileceğinizi anlatan benzersiz bir rehber. Eser boyunca, disiplinli çalışmanın ve bilişsel sınırları zorlamanın getirdiği profesyonel başarılar çarpıcı hikayelerle gözler önüne seriliyor. Sadece bir teori kitabı olmanın ötesinde, günlük hayatınıza hemen entegre edebileceğiniz pratik stratejiler, sistem kurma adımları ve davranışsal dönüşüm ipuçları barındıran derinlikli bir başyapıt."
     },
     {
       "title": "The Daily Stoic",
+      "isim": "Günlük Stoacı",
       "author": "Ryan Holiday",
-      "image": "https://covers.openlibrary.org/b/isbn/9780735211735-L.jpg",
-      "description": "366 days of Stoic wisdom, meditation, resilience engineering, and focus on control, directly translating to chaotic workspaces."
+      "pages": "416",
+      "year": "2016",
+      "description": "Günlük Stoacı kitabı, Ryan Holiday tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Yazılım, tasarım ve mimari süreçlerde mükemmelliğe ulaşmanın, karmaşık sistemleri basitleştirerek sürdürülebilir kılmanın yollarını öğreten kült bir eser. Sektörün duayen isimlerinden olan yazar, temiz iş çıkarmanın ve kaliteden ödün vermeden profesyonelce üretim yapmanın altın kurallarını sıralıyor. Hem yeni başlayanlar hem de tecrübeli profesyoneller için rehber niteliğindeki bu kitap, projelerinizi bir üst seviyeye taşırken zihinsel analitik becerilerinizi de kökten değiştirecek güçte."
     },
     {
       "title": "Ego Is the Enemy",
+      "isim": "Ego Düşmandır",
       "author": "Ryan Holiday",
-      "image": "https://covers.openlibrary.org/b/isbn/9781591847816-L.jpg",
-      "description": "Many of us think the main obstacle to a successful life is the outside world. In fact, the enemy is usually found within."
+      "pages": "256",
+      "year": "2016",
+      "description": "Ego Düşmandır kitabı, Ryan Holiday tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. İnsan psikolojisi, karar alma mekanizmaları ve davranışsal analizlerin derin sularına inen, ufkunu açacak muazzam bir çalışma. Kitap, aldığımız kararların arkasındaki rasyonel ve irrasyonel nedenleri, toplumsal kodları ve kişisel algı yönetimlerini akıcı bir dille açıklıyor. Hayatın her alanında daha doğru kararlar vermek, müzakerelerde güçlü kalmak, liderlik vasıflarını geliştirmek ve insan doğasını kusursuzca anlamak isteyen herkes için benzersiz bir kaynak."
     },
     {
       "title": "Obstacle Is the Way",
+      "isim": "Engel Yolun Kendisidir",
       "author": "Ryan Holiday",
-      "image": "https://covers.openlibrary.org/b/isbn/9781591846352-L.jpg",
-      "description": "The timeless art of turning trials into triumphs, heavily based on standard Roman Stoicism and military problem-solving."
+      "pages": "224",
+      "year": "2014",
+      "description": "Engel Yolun Kendisidir kitabı, Ryan Holiday tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Edebiyat ve düşünce tarihine yön vermiş, zamanın ötesindeki kurgusu ve felsefi altyapısıyla okuyucuyu derinden sarsan bir şaheser. Yazar, oluşturduğu evren veya sunduğu argümanlarla toplumsal sistemleri, insan ilişkilerini ve varoluşsal sancıları harika bir olay örgüsüyle işliyor. Sayfaları çevirdikçe kendinizi büyük bir sorgulamanın içinde bulacağınız, her satırında ayrı bir entelektüel birikim barındıran ve okunduktan sonra uzun süre etkisinden çıkamayacağınız büyüleyici bir kitap."
     },
     {
       "title": "Mindset: The New Psychology of Success",
+      "isim": "Aklını En Doğru Şekilde Kullan / Zihniyet",
       "author": "Carol S. Dweck",
-      "image": "https://covers.openlibrary.org/b/isbn/9780345472328-L.jpg",
-      "description": "Explores the power of a growth mindset versus a fixed mindset, transforming how we view intelligence, engineering skill, and talent."
+      "pages": "320",
+      "year": "2006",
+      "description": "Aklını En Doğru Şekilde Kullan / Zihniyet kitabı, Carol S. Dweck tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Finansal başarı ve kişisel gelişim süreçlerinde zihniyet yapısının önemini ele alan bu muhteşem eser, okuyuculara tamamen farklı bir bakış açısı sunuyor. Yazar, pratik örnekler ve gerçek hayattan alınmış vaka analizleriyle başarıya giden yoldaki engelleri nasıl aşacağınızı derinlemesine formüle ediyor. Kendi alanında devrim niteliğinde olan bu kitap, hayat kalitenizi artırmak, alışkanlıklarınızı yeniden yapılandırmak ve sürdürülebilir bir başarı ekosistemi kurmak için mutlaka kütüphanenizde bulunması gereken başucu eserlerinden biridir."
     },
     {
       "title": "Influence: Science and Practice",
+      "isim": "İknanın Psikolojisi",
       "author": "Robert B. Cialdini",
-      "image": "https://covers.openlibrary.org/b/isbn/9780321188144-L.jpg",
-      "description": "The classic book on corporate persuasion, explaining the psychological triggers that make people say yes in negotiations."
+      "pages": "336",
+      "year": "1984",
+      "description": "İknanın Psikolojisi kitabı, Robert B. Cialdini tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Modern dünyanın getirdiği dikkat dağınıklığı ve karmaşadan uzaklaşarak, pürüzsüz bir odaklanma ile nasıl katma değerli sonuçlar üretebileceğinizi anlatan benzersiz bir rehber. Eser boyunca, disiplinli çalışmanın ve bilişsel sınırları zorlamanın getirdiği profesyonel başarılar çarpıcı hikayelerle gözler önüne seriliyor. Sadece bir teori kitabı olmanın ötesinde, günlük hayatınıza hemen entegre edebileceğiniz pratik stratejiler, sistem kurma adımları ve davranışsal dönüşüm ipuçları barındıran derinlikli bir başyapıt."
     },
     {
       "title": "Never Split the Difference",
+      "isim": "Asla Ortayı Kabul Etme",
       "author": "Chris Voss",
-      "image": "https://covers.openlibrary.org/b/isbn/9781847941497-L.jpg",
-      "description": "Negotiating as if your life depended on it. A former FBI hostage negotiator shares powerful psychological strategies for tech contracts."
+      "pages": "272",
+      "year": "2016",
+      "description": "Asla Ortayı Kabul Etme kitabı, Chris Voss tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Yazılım, tasarım ve mimari süreçlerde mükemmelliğe ulaşmanın, karmaşık sistemleri basitleştirerek sürdürülebilir kılmanın yollarını öğreten kült bir eser. Sektörün duayen isimlerinden olan yazar, temiz iş çıkarmanın ve kaliteden ödün vermeden profesyonelce üretim yapmanın altın kurallarını sıralıyor. Hem yeni başlayanlar hem de tecrübeli profesyoneller için rehber niteliğindeki bu kitap, projelerinizi bir üst seviyeye taşırken zihinsel analitik becerilerinizi de kökten değiştirecek güçte."
     },
     {
       "title": "Crucial Conversations",
+      "isim": "Zorlu Konuşmalar",
       "author": "Kerry Patterson",
-      "image": "https://covers.openlibrary.org/b/isbn/9780071401944-L.jpg",
-      "description": "Tools for talking when stakes are high, opinions vary, and emotions run strong. Perfect for team sprints and launch days."
+      "pages": "272",
+      "year": "2002",
+      "description": "Zorlu Konuşmalar kitabı, Kerry Patterson tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. İnsan psikolojisi, karar alma mekanizmaları ve davranışsal analizlerin derin sularına inen, ufkunu açacak muazzam bir çalışma. Kitap, aldığımız kararların arkasındaki rasyonel ve irrasyonel nedenleri, toplumsal kodları ve kişisel algı yönetimlerini akıcı bir dille açıklıyor. Hayatın her alanında daha doğru kararlar vermek, müzakerelerde güçlü kalmak, liderlik vasıflarını geliştirmek ve insan doğasını kusursuzca anlamak isteyen herkes için benzersiz bir kaynak."
     },
     {
       "title": "Radical Candor",
+      "isim": "Radikal Açıklık",
       "author": "Kim Scott",
-      "image": "https://covers.openlibrary.org/b/isbn/9781250103505-L.jpg",
-      "description": "How to be a kickass boss without losing your humanity. Teaches you how to challenge directly while caring personally about developers."
+      "pages": "336",
+      "year": "2017",
+      "description": "Radikal Açıklık kitabı, Kim Scott tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Edebiyat ve düşünce tarihine yön vermiş, zamanın ötesindeki kurgusu ve felsefi altyapısıyla okuyucuyu derinden sarsan bir şaheser. Yazar, oluşturduğu evren veya sunduğu argümanlarla toplumsal sistemleri, insan ilişkilerini ve varoluşsal sancıları harika bir olay örgüsüyle işliyor. Sayfaları çevirdikçe kendinizi büyük bir sorgulamanın içinde bulacağınız, her satırında ayrı bir entelektüel birikim barındıran ve okunduktan sonra uzun süre etkisinden çıkamayacağınız büyüleyici bir kitap."
     },
     {
       "title": "Dare to Lead",
+      "isim": "Liderlik Etmeye Cesaret Etmek",
       "author": "Brené Brown",
-      "image": "https://covers.openlibrary.org/b/isbn/9781781257128-L.jpg",
-      "description": "Brave work. Tough conversations. Whole hearts. Explores empathy, corporate structural trust, and operational leadership rules."
+      "pages": "320",
+      "year": "2018",
+      "description": "Liderlik Etmeye Cesaret Etmek kitabı, Brené Brown tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Finansal başarı ve kişisel gelişim süreçlerinde zihniyet yapısının önemini ele alan bu muhteşem eser, okuyuculara tamamen farklı bir bakış açısı sunuyor. Yazar, pratik örnekler ve gerçek hayattan alınmış vaka analizleriyle başarıya giden yoldaki engelleri nasıl aşacağınızı derinlemesine formüle ediyor. Kendi alanında devrim niteliğinde olan bu kitap, hayat kalitenizi artırmak, alışkanlıklarınızı yeniden yapılandırmak ve sürdürülebilir bir başarı ekosistemi kurmak için mutlaka kütüphanenizde bulunması gereken başucu eserlerinden biridir."
     },
     {
       "title": "Extreme Ownership",
+      "isim": "Sıra Dışı Sorumluluk",
       "author": "Jocko Willink",
-      "image": "https://covers.openlibrary.org/b/isbn/9781250071118-L.jpg",
-      "description": "How U.S. Navy SEALs lead and win. Explains how engineering teams must take absolute accountability for pipeline deployment failures."
+      "pages": "320",
+      "year": "2015",
+      "description": "Sıra Dışı Sorumluluk kitabı, Jocko Willink tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Modern dünyanın getirdiği dikkat dağınıklığı ve karmaşadan uzaklaşarak, pürüzsüz bir odaklanma ile nasıl katma değerli sonuçlar üretebileceğinizi anlatan benzersiz bir rehber. Eser boyunca, disiplinli çalışmanın ve bilişsel sınırları zorlamanın getirdiği profesyonel başarılar çarpıcı hikayelerle gözler önüne seriliyor. Sadece bir teori kitabı olmanın ötesinde, günlük hayatınıza hemen entegre edebileceğiniz pratik stratejiler, sistem kurma adımları ve davranışsal dönüşüm ipuçları barındıran derinlikli bir başyapıt."
     },
     {
       "title": "The War of Art",
+      "isim": "Sanat Savaşı",
       "author": "Steven Pressfield",
-      "image": "https://covers.openlibrary.org/b/isbn/9780446691437-L.jpg",
-      "description": "Break through the creative blocks and win your inner battles against procrastination, doubt, and mental project resistance."
+      "pages": "192",
+      "year": "2002",
+      "description": "Sanat Savaşı kitabı, Steven Pressfield tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Yazılım, tasarım ve mimari süreçlerde mükemmelliğe ulaşmanın, karmaşık sistemleri basitleştirerek sürdürülebilir kılmanın yollarını öğreten kült bir eser. Sektörün duayen isimlerinden olan yazar, temiz iş çıkarmanın ve kaliteden ödün vermeden profesyonelce üretim yapmanın altın kurallarını sıralıyor. Hem yeni başlayanlar hem de tecrübeli profesyoneller için rehber niteliğindeki bu kitap, projelerinizi bir üst seviyeye taşırken zihinsel analitik becerilerinizi de kökten değiştirecek güçte."
     },
     {
       "title": "Steal Like an Artist",
+      "isim": "Bir Sanatçı Gibi Aşır",
       "author": "Austin Kleon",
-      "image": "https://covers.openlibrary.org/b/isbn/9780761169253-L.jpg",
-      "description": "10 things nobody told you about being creative. Explores pattern reuse, code inspirations, and standard UI components layouts."
+      "pages": "160",
+      "year": "2012",
+      "description": "Bir Sanatçı Gibi Aşır kitabı, Austin Kleon tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. İnsan psikolojisi, karar alma mekanizmaları ve davranışsal analizlerin derin sularına inen, ufkunu açacak muazzam bir çalışma. Kitap, aldığımız kararların arkasındaki rasyonel ve irrasyonel nedenleri, toplumsal kodları ve kişisel algı yönetimlerini akıcı bir dille açıklıyor. Hayatın her alanında daha doğru kararlar vermek, müzakerelerde güçlü kalmak, liderlik vasıflarını geliştirmek ve insan doğasını kusursuzca anlamak isteyen herkes için benzersiz bir kaynak."
     },
     {
       "title": "Show Your Work!",
+      "isim": "İşini Göster!",
       "author": "Austin Kleon",
-      "image": "https://covers.openlibrary.org/b/isbn/9780761178972-L.jpg",
-      "description": "10 ways to share your creativity and get discovered. An essential short manual for open-source developers and software designers."
+      "pages": "224",
+      "year": "2014",
+      "description": "İşini Göster! kitabı, Austin Kleon tarafından kaleme alınmış olup, kendi kategorisinde çığır açan bir niteliğe sahiptir. Edebiyat ve düşünce tarihine yön vermiş, zamanın ötesindeki kurgusu ve felsefi altyapısıyla okuyucuyu derinden sarsan bir şaheser. Yazar, oluşturduğu evren veya sunduğu argümanlarla toplumsal sistemleri, insan ilişkilerini ve varoluşsal sancıları harika bir olay örgüsüyle işliyor. Sayfaları çevirdikçe kendinizi büyük bir sorgulamanın içinde bulacağınız, her satırında ayrı bir entelektüel birikim barındıran ve okunduktan sonra uzun süre etkisinden çıkamayacağınız büyüleyici bir kitap."
     }
   ]
 }
