@@ -3,252 +3,302 @@
     {
       "title": "The Psychology of Money",
       "author": "Morgan Housel",
-      "image": "https://covers.openlibrary.org/b/isbn/9780857197689-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780857197689-L.jpg",
+      "price": "180.00"
     },
     {
       "title": "Atomic Habits",
       "author": "James Clear",
-      "image": "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg",
+      "price": "195.00"
     },
     {
       "title": "Deep Work",
       "author": "Cal Newport",
-      "image": "https://covers.openlibrary.org/b/isbn/9781455586691-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9781455586691-L.jpg",
+      "price": "210.00"
     },
     {
       "title": "Thinking, Fast and Slow",
       "author": "Daniel Kahneman",
-      "image": "https://covers.openlibrary.org/b/isbn/9780374275631-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780374275631-L.jpg",
+      "price": "240.00"
     },
     {
       "title": "The Lean Startup",
       "author": "Eric Ries",
-      "image": "https://covers.openlibrary.org/b/isbn/9780307887894-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780307887894-L.jpg",
+      "price": "225.00"
     },
     {
       "title": "The Subtle Art of Not Giving a F*ck",
       "author": "Mark Manson",
-      "image": "https://covers.openlibrary.org/b/isbn/9780062457714-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780062457714-L.jpg",
+      "price": "165.00"
     },
     {
       "title": "Rich Dad Poor Dad",
       "author": "Robert T. Kiyosaki",
-      "image": "https://covers.openlibrary.org/b/isbn/9781612680194-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9781612680194-L.jpg",
+      "price": "185.00"
     },
     {
       "title": "Can't Hurt Me",
       "author": "David Goggins",
-      "image": "https://covers.openlibrary.org/b/isbn/9781544512280-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9781544512280-L.jpg",
+      "price": "220.00"
     },
     {
       "title": "Start with Why",
       "author": "Simon Sinek",
-      "image": "https://covers.openlibrary.org/b/isbn/9781591846444-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9781591846444-L.jpg",
+      "price": "190.00"
     },
     {
       "title": "Good to Great",
       "author": "Jim Collins",
-      "image": "https://covers.openlibrary.org/b/isbn/9780066620992-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780066620992-L.jpg",
+      "price": "215.00"
     },
     {
       "title": "The Alchemist",
       "author": "Paulo Coelho",
-      "image": "https://covers.openlibrary.org/b/isbn/9780061122415-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780061122415-L.jpg",
+      "price": "140.00"
     },
     {
       "title": "Sapiens: A Brief History of Humankind",
       "author": "Yuval Noah Harari",
-      "image": "https://covers.openlibrary.org/b/isbn/9780062316097-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780062316097-L.jpg",
+      "price": "250.00"
     },
     {
       "title": "Homo Deus: A Brief History of Tomorrow",
       "author": "Yuval Noah Harari",
-      "image": "https://covers.openlibrary.org/b/isbn/9780062464316-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780062464316-L.jpg",
+      "price": "250.00"
     },
     {
       "title": "Digital Minimalism",
       "author": "Cal Newport",
-      "image": "https://covers.openlibrary.org/b/isbn/9780525536512-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780525536512-L.jpg",
+      "price": "200.00"
     },
     {
       "title": "The Power of Habit",
       "author": "Charles Duhigg",
-      "image": "https://covers.openlibrary.org/b/isbn/9781400069286-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9781400069286-L.jpg",
+      "price": "195.00"
     },
     {
       "title": "Originals",
       "author": "Adam Grant",
-      "image": "https://covers.openlibrary.org/b/isbn/9780525426998-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780525426998-L.jpg",
+      "price": "210.00"
     },
     {
       "title": "Grit: The Power of Passion and Perseverance",
       "author": "Angela Duckworth",
-      "image": "https://covers.openlibrary.org/b/isbn/9781501111105-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9781501111105-L.jpg",
+      "price": "190.00"
     },
     {
       "title": "Outliers: The Story of Success",
       "author": "Malcolm Gladwell",
-      "image": "https://covers.openlibrary.org/b/isbn/9780316017923-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780316017923-L.jpg",
+      "price": "205.00"
     },
     {
       "title": "Principles",
       "author": "Ray Dalio",
-      "image": "https://covers.openlibrary.org/b/isbn/9781501124020-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9781501124020-L.jpg",
+      "price": "290.00"
     },
     {
       "title": "The 7 Habits of Highly Effective People",
       "author": "Stephen R. Covey",
-      "image": "https://covers.openlibrary.org/b/isbn/9781451639612-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9781451639612-L.jpg",
+      "price": "230.00"
     },
     {
       "title": "Blink: The Power of Thinking Without Thinking",
       "author": "Malcolm Gladwell",
-      "image": "https://covers.openlibrary.org/b/isbn/9780316172325-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780316172325-L.jpg",
+      "price": "195.00"
     },
     {
       "title": "Dune",
       "author": "Frank Herbert",
-      "image": "https://covers.openlibrary.org/b/isbn/9780441172719-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780441172719-L.jpg",
+      "price": "260.00"
     },
     {
       "title": "Neuromancer",
       "author": "William Gibson",
-      "image": "https://covers.openlibrary.org/b/isbn/9780441569595-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780441569595-L.jpg",
+      "price": "180.00"
     },
     {
       "title": "Foundation",
       "author": "Isaac Asimov",
-      "image": "https://covers.openlibrary.org/b/isbn/9780553293357-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780553293357-L.jpg",
+      "price": "175.00"
     },
     {
       "title": "Hyperion",
       "author": "Dan Simmons",
-      "image": "https://covers.openlibrary.org/b/isbn/9780553283686-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780553283686-L.jpg",
+      "price": "190.00"
     },
     {
       "title": "Ender's Game",
       "author": "Orson Scott Card",
-      "image": "https://covers.openlibrary.org/b/isbn/9780812550702-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780812550702-L.jpg",
+      "price": "165.00"
     },
     {
       "title": "The Martian",
       "author": "Andy Weir",
-      "image": "https://covers.openlibrary.org/b/isbn/9780804139021-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780804139021-L.jpg",
+      "price": "185.00"
     },
     {
       "title": "Project Hail Mary",
       "author": "Andy Weir",
-      "image": "https://covers.openlibrary.org/b/isbn/9780593135204-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780593135204-L.jpg",
+      "price": "240.00"
     },
     {
       "title": "Snow Crash",
       "author": "Neal Stephenson",
-      "image": "https://covers.openlibrary.org/b/isbn/9780553380958-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780553380958-L.jpg",
+      "price": "195.00"
     },
     {
       "title": "The Hobbit",
       "author": "J.R.R. Tolkien",
-      "image": "https://covers.openlibrary.org/b/isbn/9780345339683-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780345339683-L.jpg",
+      "price": "210.00"
     },
     {
       "title": "The Fellowship of the Ring",
       "author": "J.R.R. Tolkien",
-      "image": "https://covers.openlibrary.org/b/isbn/9780345339706-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780345339706-L.jpg",
+      "price": "240.00"
     },
     {
       "title": "Harry Potter and the Sorcerer's Stone",
       "author": "J.K. Rowling",
-      "image": "https://covers.openlibrary.org/b/isbn/9780590353403-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780590353403-L.jpg",
+      "price": "195.00"
     },
     {
       "title": "Harry Potter and the Chamber of Secrets",
       "author": "J.K. Rowling",
-      "image": "https://covers.openlibrary.org/b/isbn/9780439064866-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780439064866-L.jpg",
+      "price": "195.00"
     },
     {
       "title": "Harry Potter and the Prisoner of Azkaban",
       "author": "J.K. Rowling",
-      "image": "https://covers.openlibrary.org/b/isbn/9780439136358-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780439136358-L.jpg",
+      "price": "195.00"
     },
     {
       "title": "1984",
       "author": "George Orwell",
-      "image": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
+      "price": "130.00"
     },
     {
       "title": "Animal Farm",
       "author": "George Orwell",
-      "image": "https://covers.openlibrary.org/b/isbn/9780451526342-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780451526342-L.jpg",
+      "price": "95.00"
     },
     {
       "title": "Brave New World",
       "author": "Aldous Huxley",
-      "image": "https://covers.openlibrary.org/b/isbn/9780060850524-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780060850524-L.jpg",
+      "price": "150.00"
     },
     {
       "title": "Fahrenheit 451",
       "author": "Ray Bradbury",
-      "image": "https://covers.openlibrary.org/b/isbn/9781451673319-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9781451673319-L.jpg",
+      "price": "155.00"
     },
     {
       "title": "The Great Gatsby",
       "author": "F. Scott Fitzgerald",
-      "image": "https://covers.openlibrary.org/b/isbn/9780743273565-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780743273565-L.jpg",
+      "price": "125.00"
     },
     {
       "title": "To Kill a Mockingbird",
       "author": "Harper Lee",
-      "image": "https://covers.openlibrary.org/b/isbn/9780446310789-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780446310789-L.jpg",
+      "price": "160.00"
     },
     {
       "title": "The Catcher in the Rye",
       "author": "J.D. Salinger",
-      "image": "https://covers.openlibrary.org/b/isbn/9780316769174-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780316769174-L.jpg",
+      "price": "145.00"
     },
     {
       "title": "Lord of the Flies",
       "author": "William Golding",
-      "image": "https://covers.openlibrary.org/b/isbn/9780399501487-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780399501487-L.jpg",
+      "price": "140.00"
     },
     {
       "title": "Crime and Punishment",
       "author": "Fyodor Dostoevsky",
-      "image": "https://covers.openlibrary.org/b/isbn/9780140449136-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780140449136-L.jpg",
+      "price": "180.00"
     },
     {
       "title": "The Brothers Karamazov",
       "author": "Fyodor Dostoevsky",
-      "image": "https://covers.openlibrary.org/b/isbn/9780374528379-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780374528379-L.jpg",
+      "price": "220.00"
     },
     {
       "title": "The Idiot",
       "author": "Fyodor Dostoevsky",
-      "image": "https://covers.openlibrary.org/b/isbn/9780140447927-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780140447927-L.jpg",
+      "price": "190.00"
     },
     {
       "title": "Metamorphosis",
       "author": "Franz Kafka",
-      "image": "https://covers.openlibrary.org/b/isbn/9780312351687-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780312351687-L.jpg",
+      "price": "90.00"
     },
     {
       "title": "The Trial",
       "author": "Franz Kafka",
-      "image": "https://covers.openlibrary.org/b/isbn/9780805210408-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780805210408-L.jpg",
+      "price": "135.00"
     },
     {
       "title": "Thus Spoke Zarathustra",
       "author": "Friedrich Nietzsche",
-      "image": "https://covers.openlibrary.org/b/isbn/9780140441185-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780140441185-L.jpg",
+      "price": "170.00"
     },
     {
       "title": "Beyond Good and Evil",
       "author": "Friedrich Nietzsche",
-      "image": "https://covers.openlibrary.org/b/isbn/9780140449235-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780140449235-L.jpg",
+      "price": "160.00"
     },
     {
       "title": "Meditations",
       "author": "Marcus Aurelius",
-      "image": "https://covers.openlibrary.org/b/isbn/9780140449334-L.jpg"
+      "image": "https://covers.openlibrary.org/b/isbn/9780140449334-L.jpg",
+      "price": "130.00"
     }
   ],
   "onerilen": [
@@ -256,301 +306,351 @@
       "title": "Rework",
       "author": "Jason Fried",
       "image": "https://covers.openlibrary.org/b/isbn/9780307463746-L.jpg",
-      "description": "Rework shows you a better, faster, easier way to succeed in business. Read it and you'll know why plans are actually harmful."
+      "description": "Rework shows you a better, faster, easier way to succeed in business. Read it and you'll know why plans are actually harmful.",
+      "price": "310.00"
     },
     {
       "title": "Zero to One",
       "author": "Peter Thiel",
       "image": "https://covers.openlibrary.org/b/isbn/9780804139298-L.jpg",
-      "description": "The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won't make a search engine."
+      "description": "The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won't make a search engine.",
+      "price": "340.00"
     },
     {
       "title": "Clean Code",
       "author": "Robert C. Martin",
       "image": "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg",
-      "description": "Even bad code can function. But if code isn't clean, it can bring a development organization to its knees."
+      "description": "Even bad code can function. But if code isn't clean, it can bring a development organization to its knees.",
+      "price": "480.00"
     },
     {
       "title": "The Pragmatic Programmer",
       "author": "Andrew Hunt",
       "image": "https://covers.openlibrary.org/b/isbn/9780135957059-L.jpg",
-      "description": "One of the most significant books in practical software development, helping generations of programmers examine the very essence of their craft."
+      "description": "One of the most significant books in practical software development, helping generations of programmers examine the very essence of their craft.",
+      "price": "495.00"
     },
     {
       "title": "Refactoring",
       "author": "Martin Fowler",
       "image": "https://covers.openlibrary.org/b/isbn/9780134757599-L.jpg",
-      "description": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+      "description": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "price": "475.00"
     },
     {
       "title": "Design Patterns",
       "author": "Erich Gamma",
       "image": "https://covers.openlibrary.org/b/isbn/9780201633610-L.jpg",
-      "description": "Captures the engineering wisdom and blueprints of object-oriented software design from the world's master creators."
+      "description": "Captures the engineering wisdom and blueprints of object-oriented software design from the world's master creators.",
+      "price": "520.00"
     },
     {
       "title": "Code Complete",
       "author": "Steve McConnell",
       "image": "https://covers.openlibrary.org/b/isbn/9780735619678-L.jpg",
-      "description": "Widely considered one of the best practical guides to programming, packed with fully updated code examples and architecture tips."
+      "description": "Widely considered one of the best practical guides to programming, packed with fully updated code examples and architecture tips.",
+      "price": "460.00"
     },
     {
       "title": "Introduction to Algorithms",
       "author": "Thomas H. Cormen",
       "image": "https://covers.openlibrary.org/b/isbn/9780262046305-L.jpg",
-      "description": "The definitive comprehensive guide to standard computing and mathematical sorting, matching, and architecture algorithms."
+      "description": "The definitive comprehensive guide to standard computing and mathematical sorting, matching, and architecture algorithms.",
+      "price": "650.00"
     },
     {
       "title": "You Don't Know JS",
       "author": "Kyle Simpson",
       "image": "https://covers.openlibrary.org/b/isbn/9781491904152-L.jpg",
-      "description": "No matter how much experience you have with JavaScript, odds are you don't fully understand everything about the language."
+      "description": "No matter how much experience you have with JavaScript, odds are you don't fully understand everything about the language.",
+      "price": "290.00"
     },
     {
       "title": "Head First Design Patterns",
       "author": "Eric Freeman",
       "image": "https://covers.openlibrary.org/b/isbn/9782841773510-L.jpg",
-      "description": "A visually rich, brain-friendly guide to structural design, architecture, and behavioral patterns in development engineering."
+      "description": "A visually rich, brain-friendly guide to structural design, architecture, and behavioral patterns in development engineering.",
+      "price": "420.00"
     },
     {
       "title": "Soft Skills",
       "author": "John Sonmez",
       "image": "https://covers.openlibrary.org/b/isbn/9781617292392-L.jpg",
-      "description": "The software developer's life manual. Covers career management, marketing yourself, fitness, finance, and productivity engineering."
+      "description": "The software developer's life manual. Covers career management, marketing yourself, fitness, finance, and productivity engineering.",
+      "price": "360.00"
     },
     {
       "title": "The Clean Coder",
       "author": "Robert C. Martin",
       "image": "https://covers.openlibrary.org/b/isbn/9780137081073-L.jpg",
-      "description": "A guide to professional conduct, disciplines, engineering practices, and standard rules of pride for software developers."
+      "description": "A guide to professional conduct, disciplines, engineering practices, and standard rules of pride for software developers.",
+      "price": "410.00"
     },
     {
       "title": "Cracking the Coding Interview",
       "author": "Gayle Laakmann McDowell",
       "image": "https://covers.openlibrary.org/b/isbn/9780984782857-L.jpg",
-      "description": "189 programming questions and solutions, from binary trees to system engineering problems to help you pass backend developer exams."
+      "description": "189 programming questions and solutions, from binary trees to system engineering problems to help you pass backend developer exams.",
+      "price": "450.00"
     },
     {
       "title": "Continuous Delivery",
       "author": "Jez Humble",
       "image": "https://covers.openlibrary.org/b/isbn/9780321601919-L.jpg",
-      "description": "Reliable software releases through build, test, pipeline, and deployment automation systems for development operations."
+      "description": "Reliable software releases through build, test, pipeline, and deployment automation systems for development operations.",
+      "price": "430.00"
     },
     {
       "title": "Domain-Driven Design",
       "author": "Eric Evans",
       "image": "https://covers.openlibrary.org/b/isbn/9780321125217-L.jpg",
-      "description": "Filling the gap between complex business processes and clean technical architecture in corporate software development."
+      "description": "Filling the gap between complex business processes and clean technical architecture in corporate software development.",
+      "price": "490.00"
     },
     {
       "title": "Working Effectively with Legacy Code",
       "author": "Michael Feathers",
       "image": "https://covers.openlibrary.org/b/isbn/9780131177055-L.jpg",
-      "description": "Get crucial strategies for modifying, testing, maintaining, and protecting vast systems that lack proper documentation."
+      "description": "Get crucial strategies for modifying, testing, maintaining, and protecting vast systems that lack proper documentation.",
+      "price": "440.00"
     },
     {
       "title": "Patterns of Enterprise Application Architecture",
       "author": "Martin Fowler",
       "image": "https://covers.openlibrary.org/b/isbn/9780321127426-L.jpg",
-      "description": "Deep enterprise-level blueprints for building solid layers, database mapping, data concurrency, and system sessions."
+      "description": "Deep enterprise-level blueprints for building solid layers, database mapping, data concurrency, and system sessions.",
+      "price": "510.00"
     },
     {
       "title": "The Mythical Man-Month",
       "author": "Frederick P. Brooks Jr.",
       "image": "https://covers.openlibrary.org/b/isbn/9780201835953-L.jpg",
-      "description": "Few books on project management have been as influential or timeless. Explains why adding manpower to a late software project makes it later."
+      "description": "Few books on project management have been as influential or timeless. Explains why adding manpower to a late software project makes it later.",
+      "price": "320.00"
     },
     {
       "title": "Peopleware",
       "author": "Tom DeMarco",
       "image": "https://covers.openlibrary.org/b/isbn/9780321934116-L.jpg",
-      "description": "The major problems of our work are not technological, they are sociological in nature. A masterpiece on engineering management."
+      "description": "The major problems of our work are not technological, they are sociological in nature. A masterpiece on engineering management.",
+      "price": "330.00"
     },
     {
       "title": "The Phoenix Project",
       "author": "Gene Kim",
       "image": "https://covers.openlibrary.org/b/isbn/9780988262591-L.jpg",
-      "description": "A novel about IT, DevOps, security engineering, and helping your business win through agile process transformations."
+      "description": "A novel about IT, DevOps, security engineering, and helping your business win through agile process transformations.",
+      "price": "280.00"
     },
     {
       "title": "The Goal",
       "author": "Eliyahu M. Goldratt",
       "image": "https://covers.openlibrary.org/b/isbn/9780884271956-L.jpg",
-      "description": "A business graphic-style novel focusing on the Theory of Constraints, continuous improvement, pipeline bottlenecks, and manufacturing efficiency."
+      "description": "A business graphic-style novel focusing on the Theory of Constraints, continuous improvement, pipeline bottlenecks, and manufacturing efficiency.",
+      "price": "260.00"
     },
     {
       "title": "Drive",
       "author": "Daniel H. Pink",
       "image": "https://covers.openlibrary.org/b/isbn/9781594488849-L.jpg",
-      "description": "The surprising truth about what motivates us. Explores autonomy, mastery, and purpose versus standard reward systems."
+      "description": "The surprising truth about what motivates us. Explores autonomy, mastery, and purpose versus standard reward systems.",
+      "price": "195.00"
     },
     {
       "title": "Hooked",
       "author": "Nir Eyal",
       "image": "https://covers.openlibrary.org/b/isbn/9781591847786-L.jpg",
-      "description": "How to build habit-forming products. Explores the structural UI hook cycle that keeps users coming back naturally."
+      "description": "How to build habit-forming products. Explores the structural UI hook cycle that keeps users coming back naturally.",
+      "price": "240.00"
     },
     {
       "title": "The Design of Everyday Things",
       "author": "Don Norman",
       "image": "https://covers.openlibrary.org/b/isbn/9780465050659-L.jpg",
-      "description": "Even the smartest among us can feel stupid trying to use a simple door or light switch. The ultimate Bible for UI/UX designers."
+      "description": "Even the smartest among us can feel stupid trying to use a simple door or light switch. The ultimate Bible for UI/UX designers.",
+      "price": "295.00"
     },
     {
       "title": "Don't Make Me Think",
       "author": "Steve Krug",
       "image": "https://covers.openlibrary.org/b/isbn/9780321965516-L.jpg",
-      "description": "A common-sense guide to web and mobile usability, interface layouts, engineering simple pathways, and clean interface designs."
+      "description": "A common-sense guide to web and mobile usability, interface layouts, engineering simple pathways, and clean interface designs.",
+      "price": "280.00"
     },
     {
       "title": "Sprint",
       "author": "Jake Knapp",
       "image": "https://covers.openlibrary.org/b/isbn/9781471155864-L.jpg",
-      "description": "How to solve big problems and test new ideas in just five days, directly from the Google Ventures startup framework."
+      "description": "How to solve big problems and test new ideas in just five days, directly from the Google Ventures startup framework.",
+      "price": "315.00"
     },
     {
       "title": "Badass: Making Users Awesome",
       "author": "Kathy Sierra",
       "image": "https://covers.openlibrary.org/b/isbn/9781491919019-L.jpg",
-      "description": "If you want your product to succeed, stop focusing on making a great product—focus on making your users successful."
+      "description": "If you want your product to succeed, stop focusing on making a great product—focus on making your users successful.",
+      "price": "335.00"
     },
     {
       "title": "The Innovator's Dilemma",
       "author": "Clayton M. Christensen",
       "image": "https://covers.openlibrary.org/b/isbn/9780875845852-L.jpg",
-      "description": "When new technologies cause great firms to fail. Explores disruptive innovation, market transformation, and engineering pivots."
+      "description": "When new technologies cause great firms to fail. Explores disruptive innovation, market transformation, and engineering pivots.",
+      "price": "350.00"
     },
     {
       "title": "Crossing the Chasm",
       "author": "Geoffrey A. Moore",
       "image": "https://covers.openlibrary.org/b/isbn/9780060517120-L.jpg",
-      "description": "Marketing and selling high-tech products to mainstream customers, navigating the gap between early adopters and pragmatists."
+      "description": "Marketing and selling high-tech products to mainstream customers, navigating the gap between early adopters and pragmatists.",
+      "price": "325.00"
     },
     {
       "title": "High Output Management",
       "author": "Andrew S. Grove",
       "image": "https://covers.openlibrary.org/b/isbn/9780679762881-L.jpg",
-      "description": "The essential handbook for tech managers, directors, and startup founders from the former legendary CEO of Intel Corporation."
+      "description": "The essential handbook for tech managers, directors, and startup founders from the former legendary CEO of Intel Corporation.",
+      "price": "380.00"
     },
     {
       "title": "Measure What Matters",
       "author": "John Doerr",
       "image": "https://covers.openlibrary.org/b/isbn/9780525536222-L.jpg",
-      "description": "How Google, Bono, and the Gates Foundation rock the world with OKRs (Objectives and Key Results) frameworks."
+      "description": "How Google, Bono, and the Gates Foundation rock the world with OKRs (Objectives and Key Results) frameworks.",
+      "price": "295.00"
     },
     {
       "title": "The Hard Thing About Hard Things",
       "author": "Ben Horowitz",
       "image": "https://covers.openlibrary.org/b/isbn/9780062273208-L.jpg",
-      "description": "Building a business when there are no easy answers. Brutally honest corporate lessons on management, execution, and crises."
+      "description": "Building a business when there are no easy answers. Brutally honest corporate lessons on management, execution, and crises.",
+      "price": "365.00"
     },
     {
       "title": "Creativity, Inc.",
       "author": "Ed Catmull",
       "image": "https://covers.openlibrary.org/b/isbn/9780812993011-L.jpg",
-      "description": "Overcoming the unseen forces that stand in the way of true inspiration, written by the legendary co-founder of Pixar Animation."
+      "description": "Overcoming the unseen forces that stand in the way of true inspiration, written by the legendary co-founder of Pixar Animation.",
+      "price": "340.00"
     },
     {
       "title": "Principles: Life and Work",
       "author": "Ray Dalio",
       "image": "https://covers.openlibrary.org/b/isbn/9781501124020-L.jpg",
-      "description": "Dalio shares the unconventional business principles he developed to build Bridgewater Associates into an empire."
+      "description": "Dalio shares the unconventional business principles he developed to build Bridgewater Associates into an empire.",
+      "price": "290.00"
     },
     {
       "title": "Steve Jobs",
       "author": "Walter Isaacson",
       "image": "https://covers.openlibrary.org/b/isbn/9781451648539-L.jpg",
-      "description": "The exclusive, bestselling biography of Apple's iconic, creative, driven, and disruptive tech trailblazer."
+      "description": "The exclusive, bestselling biography of Apple's iconic, creative, driven, and disruptive tech trailblazer.",
+      "price": "270.00"
     },
     {
       "title": "Elon Musk",
       "author": "Ashlee Vance",
       "image": "https://covers.openlibrary.org/b/isbn/9780062301239-L.jpg",
-      "description": "Tesla, SpaceX, and the quest for a fantastic future. A deep dive into the engineering mindset behind multi-planetary goals."
+      "description": "Tesla, SpaceX, and the quest for a fantastic future. A deep dive into the engineering mindset behind multi-planetary goals.",
+      "price": "265.00"
     },
     {
       "title": "Man's Search for Meaning",
       "author": "Viktor E. Frankl",
       "image": "https://covers.openlibrary.org/b/isbn/9780807014295-L.jpg",
-      "description": "A psychiatrist's memoir of surviving Nazi concentration camps, exploring the vital human psychological need for a dedicated purpose."
+      "description": "A psychiatrist's memoir of surviving Nazi concentration camps, exploring the vital human psychological need for a dedicated purpose.",
+      "price": "145.00"
     },
     {
       "title": "The Daily Stoic",
       "author": "Ryan Holiday",
       "image": "https://covers.openlibrary.org/b/isbn/9780735211735-L.jpg",
-      "description": "366 days of Stoic wisdom, meditation, resilience engineering, and focus on control, directly translating to chaotic workspaces."
+      "description": "366 days of Stoic wisdom, meditation, resilience engineering, and focus on control, directly translating to chaotic workspaces.",
+      "price": "190.00"
     },
     {
       "title": "Ego Is the Enemy",
       "author": "Ryan Holiday",
       "image": "https://covers.openlibrary.org/b/isbn/9781591847816-L.jpg",
-      "description": "Many of us think the main obstacle to a successful life is the outside world. In fact, the enemy is usually found within."
+      "description": "Many of us think the main obstacle to a successful life is the outside world. In fact, the enemy is usually found within.",
+      "price": "175.00"
     },
     {
       "title": "Obstacle Is the Way",
       "author": "Ryan Holiday",
       "image": "https://covers.openlibrary.org/b/isbn/9781591846352-L.jpg",
-      "description": "The timeless art of turning trials into triumphs, heavily based on standard Roman Stoicism and military problem-solving."
+      "description": "The timeless art of turning trials into triumphs, heavily based on standard Roman Stoicism and military problem-solving.",
+      "price": "175.00"
     },
     {
       "title": "Mindset: The New Psychology of Success",
       "author": "Carol S. Dweck",
       "image": "https://covers.openlibrary.org/b/isbn/9780345472328-L.jpg",
-      "description": "Explores the power of a growth mindset versus a fixed mindset, transforming how we view intelligence, engineering skill, and talent."
+      "description": "Explores the power of a growth mindset versus a fixed mindset, transforming how we view intelligence, engineering skill, and talent.",
+      "price": "210.00"
     },
     {
       "title": "Influence: Science and Practice",
       "author": "Robert B. Cialdini",
       "image": "https://covers.openlibrary.org/b/isbn/9780321188144-L.jpg",
-      "description": "The classic book on corporate persuasion, explaining the psychological triggers that make people say yes in negotiations."
+      "description": "The classic book on corporate persuasion, explaining the psychological triggers that make people say yes in negotiations.",
+      "price": "245.00"
     },
     {
       "title": "Never Split the Difference",
       "author": "Chris Voss",
       "image": "https://covers.openlibrary.org/b/isbn/9781847941497-L.jpg",
-      "description": "Negotiating as if your life depended on it. A former FBI hostage negotiator shares powerful psychological strategies for tech contracts."
+      "description": "Negotiating as if your life depended on it. A former FBI hostage negotiator shares powerful psychological strategies for tech contracts.",
+      "price": "230.00"
     },
     {
       "title": "Crucial Conversations",
       "author": "Kerry Patterson",
       "image": "https://covers.openlibrary.org/b/isbn/9780071401944-L.jpg",
-      "description": "Tools for talking when stakes are high, opinions vary, and emotions run strong. Perfect for team sprints and launch days."
+      "description": "Tools for talking when stakes are high, opinions vary, and emotions run strong. Perfect for team sprints and launch days.",
+      "price": "260.00"
     },
     {
       "title": "Radical Candor",
       "author": "Kim Scott",
       "image": "https://covers.openlibrary.org/b/isbn/9781250103505-L.jpg",
-      "description": "How to be a kickass boss without losing your humanity. Teaches you how to challenge directly while caring personally about developers."
+      "description": "How to be a kickass boss without losing your humanity. Teaches you how to challenge directly while caring personally about developers.",
+      "price": "285.00"
     },
     {
       "title": "Dare to Lead",
       "author": "Brené Brown",
       "image": "https://covers.openlibrary.org/b/isbn/9781781257128-L.jpg",
-      "description": "Brave work. Tough conversations. Whole hearts. Explores empathy, corporate structural trust, and operational leadership rules."
+      "description": "Brave work. Tough conversations. Whole hearts. Explores empathy, corporate structural trust, and operational leadership rules.",
+      "price": "240.00"
     },
     {
       "title": "Extreme Ownership",
       "author": "Jocko Willink",
       "image": "https://covers.openlibrary.org/b/isbn/9781250071118-L.jpg",
-      "description": "How U.S. Navy SEALs lead and win. Explains how engineering teams must take absolute accountability for pipeline deployment failures."
+      "description": "How U.S. Navy SEALs lead and win. Explains how engineering teams must take absolute accountability for pipeline deployment failures.",
+      "price": "295.00"
     },
     {
       "title": "The War of Art",
       "author": "Steven Pressfield",
       "image": "https://covers.openlibrary.org/b/isbn/9780446691437-L.jpg",
-      "description": "Break through the creative blocks and win your inner battles against procrastination, doubt, and mental project resistance."
+      "description": "Break through the creative blocks and win your inner battles against procrastination, doubt, and mental project resistance.",
+      "price": "180.00"
     },
     {
       "title": "Steal Like an Artist",
       "author": "Austin Kleon",
       "image": "https://covers.openlibrary.org/b/isbn/9780761169253-L.jpg",
-      "description": "10 things nobody told you about being creative. Explores pattern reuse, code inspirations, and standard UI components layouts."
+      "description": "10 things nobody told you about being creative. Explores pattern reuse, code inspirations, and standard UI components layouts.",
+      "price": "135.00"
     },
     {
       "title": "Show Your Work!",
       "author": "Austin Kleon",
       "image": "https://covers.openlibrary.org/b/isbn/9780761178972-L.jpg",
-      "description": "10 ways to share your creativity and get discovered. An essential short manual for open-source developers and software designers."
+      "description": "10 ways to share your creativity and get discovered. An essential short manual for open-source developers and software designers.",
+      "price": "135.00"
     }
   ]
 }
